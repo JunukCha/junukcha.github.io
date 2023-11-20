@@ -2,7 +2,7 @@
 layout: post
 title: SMPL:Human mesh model
 tags: [basic, human, mesh]
-published: true
+published: false
 category: study
 math: true
 ---
