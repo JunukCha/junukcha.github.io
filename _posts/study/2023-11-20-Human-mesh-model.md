@@ -2,8 +2,8 @@
 layout: post
 title: SMPL:Human mesh model
 tags: [basic, human, mesh]
-published: false
-category: test
+published: true
+category: study
 math: true
 ---
 
