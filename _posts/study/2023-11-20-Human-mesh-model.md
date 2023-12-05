@@ -3,6 +3,7 @@ layout: post
 title: SMPL:Human mesh model
 tags: [basic, human, mesh]
 published: false
+author: Junuk Cha
 category: study
 math: true
 ---

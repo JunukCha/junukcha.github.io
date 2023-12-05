@@ -4,8 +4,10 @@ title: Junuk Cha
 ---
 
 ## About Me
-I'm **Junuk Cha**. I'm a graduate student in a combined Master's and PhD program specializing in Computer Vision and Deep Learning. I'm interested in **3D generation and 3D reconstruction**. I'm' a combined MS/PhD student affiliated to the Artificial Intelligence Graduate School ([AIGS](https://aigs.unist.ac.kr/web/index.php)) at [UNIST](https://www.unist.ac.kr) since March 2021. I obtained BS (2021) degree from Dept. of Mechanical Engineering at [UNIST](https://www.unist.ac.kr).
+I'm **Junuk Cha**. I'm a combined MS/PhD student affiliated to the Artificial Intelligence Graduate School ([AIGS](https://aigs.unist.ac.kr/web/index.php)) at [UNIST](https://www.unist.ac.kr) since March 2021. I obtained BS (2021) degree from Dept. of Mechanical Engineering at [UNIST](https://www.unist.ac.kr).
+
 Email: <jucha@unist.ac.kr> (official), <junukcha@gmail.com> (personal)
+
 Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 
 ## Research Interests
