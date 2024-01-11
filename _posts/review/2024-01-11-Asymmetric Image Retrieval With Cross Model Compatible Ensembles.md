@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asymmetric Image Retrieval With Cross Model Compatible Ensembles
-tags: [WACV2024, Review, image, retrieval, cross moel, ensemble]
+tags: [WACV2024, Review, image, retrieval, cross model, ensemble]
 published: true
 author: Junuk Cha
 category: review
