@@ -20,12 +20,16 @@ What I'm going to share can be summarized as follows:
 Before starting to talk about the results, I briefly explain the dataset I used.
 
 ### 17 Catergory Flower Dataset
-It has 17 categories of flowers, with 80 images for each class. I have implemented the code to processing this dataset. [dataset code](https://github.com/JunukCha/DINOv2_classification/blob/master/lib/datasets.py)
+It has 17 categories of flowers, with 80 images for each class. I have implemented the code to processing this dataset. [dataset code.](https://github.com/JunukCha/DINOv2_classification/blob/master/lib/datasets.py)  
+[Download data](https://www.robots.ox.ac.uk/~vgg/data/flowers/17/)
 
 ---
 
 ## The result comprisions
 I used Resnet50 + Classifier (a simple FC layer) and DINOv2 + Classifier (a simple FC layer). I used the same classifier. 
+
+The classifier consists of two fc layers. [classifier code.](https://github.com/JunukCha/DINOv2_classification/blob/cd83932c4412930910815fcc5098a1efafd4e089/lib/models.py#L33)
+![image](https://github.com/JunukCha/DINOv2_classification/assets/92254092/9dd3a007-b170-469f-91a7-3ad1e4ec8c3f)
 
 ### Resnet50 + Classifier
 Epoch: 1 | train loss: 2.7797 | train acc: 2.4 | valid loss: 2.6566 | valid acc: 12.3  
@@ -51,11 +55,12 @@ Epoch: 4 | train loss: 1.9317 | train acc: 99.9 | valid loss: 1.9340 | valid acc
 Epoch: 5 | train loss: 1.9307 | train acc: 100.0 | valid loss: 1.9339 | valid acc: 99.7  
 Test loss: 1.9339 | test acc: **99.6**
 
-The performace when using DINOv2 is better than that with Resnet50. DINOv2's accuracy on train set and validation set dramatically increased.
+The performace when using DINOv2 is better than that with Resnet50. DINOv2's accuracy on train set and validation set dramatically increased. You can train the model in [here](https://github.com/JunukCha/DINOv2_classification/blob/master/main.py).
 
 ---
 
 ## The visualization of TSNE
+You can reproduce the results by [this code](https://github.com/JunukCha/DINOv2_classification/blob/master/tsne.py).
 ### TSNE of Resnet50
 ![image](https://github.com/JunukCha/DINOv2_classification/raw/master/assets/tsne_resnet50.jpg)
 ### TSNE of DINOv2
@@ -64,7 +69,7 @@ The performace when using DINOv2 is better than that with Resnet50. DINOv2's acc
 The TSNE results for DINOv2 demonstrate that the features are more coherent within each class.
 
 ### Interactive
-I implemented the interactive figure. You can interact with with your mouse, and check how similar they are in the same cluster.
+I implemented the interactive figure. You can interact with with your mouse, and check how similar they are in the same cluster. [interactive code.](https://github.com/JunukCha/DINOv2_classification/blob/master/tsne_interactive.py)
 ![GIF](https://github.com/JunukCha/DINOv2_classification/raw/master/assets/interactive.gif)
 
 ---
