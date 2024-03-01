@@ -17,14 +17,14 @@ Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 
 ## Researches
 ### International Conference
-+ **Junuk Cha**, Jihyeon Kim, Jae Shin Yoon*, Seungryul Baek*, **"Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction"**, in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, 2024. Co-last authors*.
++ **Junuk Cha**, Jihyeon Kim, Jae Shin Yoon\*, Seungryul Baek\*, **"Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction"**, in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, 2024. Co-last authors*.
 <center>
   <img
     src="/media/images/publications/text2hoi.png" alt="text-guided 3D motion generation for hand-object interaction" width="80%"
   />
 </center>
 
-+ **Junuk Cha**, Hansol Lee, Jaewon Kim, Bao Truong, Jae Shin Yoon*, Seungryul Baek*, **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**, in Proc. of IEEE Winter Conf. on Applications of Computer Vision (**WACV**), Hawaii, USA, 2024. Co-last authors*.
++ **Junuk Cha**, Hansol Lee, Jaewon Kim, Bao Truong, Jae Shin Yoon\*, Seungryul Baek\*, **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**, in Proc. of IEEE Winter Conf. on Applications of Computer Vision (**WACV**), Hawaii, USA, 2024. Co-last authors*.
 <center>
   <img
     src="/media/images/publications/MultiRecon.png" alt="clothed mesh reconsturction of multi-person" width="80%"
