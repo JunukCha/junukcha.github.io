@@ -17,7 +17,14 @@ Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 
 ## Researches
 ### International Conference
-+ **Junuk Cha**, Hansol Lee, Jaewon Kim, Bao Truong, Jae Shin Yoon, Seungryul Baek, **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**, in Proc. of IEEE Winter Conf. on Applications of Computer Vision (**WACV**), Hawaii, USA, 2024.
++ **Junuk Cha**, Jihyeon Kim, Jae Shin Yoon*, Seungryul Baek*, **"Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction"**, in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, 2024. Co-last authors*.
+<center>
+  <img
+    src="/media/images/publications/text2hoi.png" alt="text-guided 3D motion generation for hand-object interaction" width="80%"
+  />
+</center>
+
++ **Junuk Cha**, Hansol Lee, Jaewon Kim, Bao Truong, Jae Shin Yoon*, Seungryul Baek*, **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**, in Proc. of IEEE Winter Conf. on Applications of Computer Vision (**WACV**), Hawaii, USA, 2024. Co-last authors*.
 <center>
   <img
     src="/media/images/publications/MultiRecon.png" alt="clothed mesh reconsturction of multi-person" width="80%"
@@ -68,6 +75,15 @@ Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 + Jihyeon Kim, Changhwa Lee, Seongyeong Lee, **Junuk Cha**, Hansoo Park, Donguk Kim and Seungryul Baek, **"Finger Bendedness Classification from 3D Pose Regression"**, JKAIA, 2021.
 
 + Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, **Junuk Cha**, Hansol Lee, Yunseong Cho, Seungryul Baek, **"3D simulation via hand pose estimation and model simplification"**, 2021년도 대한전기학회 하계학술대회 논문집 (2021.7.15~17).
+
+## Internships
+<center>
+  <img
+    src="/media/images/internships/adobe.png" alt="adobe" width="50%"
+  />
+</center>
+Research Scientist/Engineer Intern at Adobe, San Jose, CA, USA
+(Feb. 2024 - May 2024)
 
 ## Academic Activities
 + Program Committee (Peer-Reviewer) at AAAI 2024.
