@@ -24,7 +24,7 @@ Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
   />
 </center>
 
-+ **Junuk Cha**, Hansol Lee, Jaewon Kim, Bao Truong, Jae Shin Yoon\*, Seungryul Baek\*, **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**, in Proc. of IEEE Winter Conf. on Applications of Computer Vision (**WACV**), Hawaii, USA, 2024. Co-last authors*.
++ **Junuk Cha**, Hansol Lee, Jaewon Kim, Bao Truong, Jae Shin Yoon\*, Seungryul Baek\*, **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**, in Proc. of IEEE Winter Conf. on Applications of Computer Vision (**WACV**), Hawaii, USA, 2024. Co-last authors*. \[[PDF](https://arxiv.org/pdf/2401.06415.pdf)\]
 <center>
   <img
     src="/media/images/publications/MultiRecon.png" alt="clothed mesh reconsturction of multi-person" width="80%"
