@@ -1,6 +1,5 @@
 ---
-layout: project
-permalink: /project/
-title: project
-type: project
+layout: text2hoi
+permalink: /text2hoi/
+title: text2hoi
 ---
