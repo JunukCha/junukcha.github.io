@@ -42,7 +42,7 @@ Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 + Hansol Lee, **Junuk Cha**, Yunhoe Ku, Jae Shin Yoon\*, Seungryul Baek\*, **"Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera"**, in arXiv 2023. Co-last authors*. \[[PDF](https://arxiv.org/pdf/2312.16842.pdf)\]
 <center>
   <img
-    src="/media/images/publications/DynamicAppearance.gif" alt="reconstruction of dynamic appearance" width="50%"
+    src="/media/images/publications/DynamicAppearance.gif" alt="reconstruction of dynamic appearance" width="80%"
   />
 </center>
 
