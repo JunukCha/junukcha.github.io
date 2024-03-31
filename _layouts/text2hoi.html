@@ -66,21 +66,21 @@
             <div class="is-size-5 publication-authors">
               <!-- Paper authors -->
               <span class="author-block">
-                <a href="https://junukcha.github.io/about" target="_blank">Junuk Cha</a>
+                <a href="https://junukcha.github.io/about" target="_blank">Junuk Cha<sup>1</sup></a>
               </span>
               <span class="author-block">
-                <a href="https://sites.google.com/view/jihyeon-kim/%ED%99%88" target="_blank">Jihyeon Kim</a>
+                <a href="https://sites.google.com/view/jihyeon-kim/%ED%99%88" target="_blank">Jihyeon Kim<sup>1,2</sup></a>
               </span>
               <span class="author-block">
-                <a href="https://gorokee.github.io/jsyoon/" target="_blank">Jae Shin Yoon</a><sup>*</sup> 
+                <a href="https://gorokee.github.io/jsyoon/" target="_blank">Jae Shin Yoon</a><sup>3*</sup> 
               </span>
               <span class="author-block">
-                <a href="https://sites.google.com/site/bsrvision00/" target="_blank">Seungryul Baek</a><sup>*</sup> 
+                <a href="https://sites.google.com/site/bsrvision00/" target="_blank">Seungryul Baek</a><sup>3*</sup> 
               </span>
             </div>
 
             <div class="is-size-5 publication-authors">
-              <span class="author-block">UNIST<sup>1</sup>, Adobe Research<sup>2</sup><br>CVPR 2024</span>
+              <span class="author-block">UNIST<sup>1</sup>, KETI<sup>2</sup>, Adobe Research<sup>3</sup><br>CVPR 2024</span>
               <span class="eql-cntrb"><small><br><sup>*</sup>Co-last author</small></span>
             </div>
 
@@ -211,7 +211,7 @@
           <h2 class="title is-3">Abstract</h2>
           <div class="content has-text-justified">
             <p>
-              This paper introduces the first text-guided work for generating the sequence of hand-object interaction in 3D. The main challenge arises from the lack of labeled data where existing ground-truth datasets are nowhere near generalizable in interaction type and object category, which inhibits the modeling of diverse 3D hand-object interaction with the correct physical implication (<i>e.g.</i>, contacts and semantics) from text prompts. To address this challenge, we propose to decompose the interaction generation task into two subtasks: hand-object contact generation; and hand-object motion generation. For contact generation, a VAE-based network takes as input a text and an object mesh, and generates the probability of contacts between the surfaces of hands and the object during the interaction. The network learns a variety of local geometry structure of diverse objects that is independent of the objects' category, and thus, it is applicable to general objects. For motion generation, a Transformer-based diffusion model utilizes this 3D contact map as a strong prior for generating physically plausible hand-object motion as a function of text prompts by learning from the augmented labeled dataset; where we annotate text labels from many existing 3D hand and object motion data. Finally, we further introduce a hand refiner module that minimizes the distance between the object surface and hand joints to improve the temporal stability of the object-hand contacts and to suppress the penetration artifacts. In the experiments, we demonstrate that our method can generate more realistic and diverse interactions compared to other baseline methods. We also show that our method is applicable to unseen objects. We will release our model and newly labeled data as a strong foundation for future research.
+              This paper introduces the first text-guided work for generating the sequence of hand-object interaction in 3D. The main challenge arises from the lack of labeled data where existing ground-truth datasets are nowhere near generalizable in interaction type and object category, which inhibits the modeling of diverse 3D hand-object interaction with the correct physical implication (<i>e.g.</i>, contacts and semantics) from text prompts. To address this challenge, we propose to decompose the interaction generation task into two subtasks: hand-object contact generation; and hand-object motion generation. For contact generation, a VAE-based network takes as input a text and an object mesh, and generates the probability of contacts between the surfaces of hands and the object during the interaction. The network learns a variety of local geometry structure of diverse objects that is independent of the objects' category, and thus, it is applicable to general objects. For motion generation, a Transformer-based diffusion model utilizes this 3D contact map as a strong prior for generating physically plausible hand-object motion as a function of text prompts by learning from the augmented labeled dataset; where we annotate text labels from many existing 3D hand and object motion data. Finally, we further introduce a hand refiner module that minimizes the distance between the object surface and hand joints to improve the temporal stability of the object-hand contacts and to suppress the penetration artifacts. In the experiments, we demonstrate that our method can generate more realistic and diverse interactions compared to other baseline methods. We also show that our method is applicable to unseen objects. We will release our model and newly labeled data as a strong foundation for future research. Codes and data are available in: https://github.com/JunukCha/Text2HOI.
             </p>
           </div>
         </div>
@@ -220,35 +220,49 @@
   </section>
   <!-- End paper abstract -->
 
+  <!-- Paper framework -->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Framework</h2>
+          <div class="content has-text-justified">
+            <p>
+              Given a text prompt and a canonical object mesh prompt, our aim is to generate the 3D motion for hand-object interaction. We first generate a contact map from the canonical object mesh conditioned by the text prompt and object's scale. The hand-object motion generation module removes the noise from the inputs for the denoised outputs to align with the predicted contact map and the text prompt. The denoised outputs exhibit artifacts, including the penetration. To address these artifacts, the hand refinement module adjusts the generated (denoised) hand pose parameters to restrain the penetration and to improve contact interactions.
+            </p>
+            <img src="/media/projects/text2hoi/framework.png" alt="framework" >
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End paper framework -->
+
 
   <!-- Image carousel -->
-  <section class="hero is-small">
+  <!-- <section class="hero is-small">
     <div class="hero-body">
       <div class="container">
         <div id="results-carousel" class="carousel results-carousel">
           <div class="item">
-            <!-- Your image here -->
             <img src="/static/images/carousel1.jpg" alt="MY ALT TEXT" />
             <h2 class="subtitle has-text-centered">
               First image description.
             </h2>
           </div>
           <div class="item">
-            <!-- Your image here -->
             <img src="/static/images/carousel2.jpg" alt="MY ALT TEXT" />
             <h2 class="subtitle has-text-centered">
               Second image description.
             </h2>
           </div>
           <div class="item">
-            <!-- Your image here -->
             <img src="/static/images/carousel3.jpg" alt="MY ALT TEXT" />
             <h2 class="subtitle has-text-centered">
               Third image description.
             </h2>
           </div>
           <div class="item">
-            <!-- Your image here -->
             <img src="/static/images/carousel4.jpg" alt="MY ALT TEXT" />
             <h2 class="subtitle has-text-centered">
               Fourth image description.
@@ -257,7 +271,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- End image carousel -->
 
 
@@ -274,7 +288,7 @@
 
             <div class="publication-video">
               <!-- Youtube embed code here -->
-              <iframe src="https://www.youtube.com/embed/JkaxUblCGz0" frameborder="0" allow="autoplay; encrypted-media"
+              <iframe src="https://youtu.be/YBRsu0pnTeA." frameborder="0" allow="autoplay; encrypted-media"
                 allowfullscreen></iframe>
             </div>
           </div>
@@ -286,33 +300,30 @@
 
 
   <!-- Video carousel -->
-  <section class="hero is-small">
+  <!-- <section class="hero is-small">
     <div class="hero-body">
       <div class="container">
         <h2 class="title is-3">Another Carousel</h2>
         <div id="results-carousel" class="carousel results-carousel">
           <div class="item item-video1">
             <video poster="" id="video1" autoplay controls muted loop height="100%">
-              <!-- Your video file here -->
               <source src="/static/videos/carousel1.mp4" type="video/mp4">
             </video>
           </div>
           <div class="item item-video2">
             <video poster="" id="video2" autoplay controls muted loop height="100%">
-              <!-- Your video file here -->
               <source src="/static/videos/carousel2.mp4" type="video/mp4">
             </video>
           </div>
           <div class="item item-video3">
             <video poster="" id="video3" autoplay controls muted loop height="100%">\
-              <!-- Your video file here -->
               <source src="/static/videos/carousel3.mp4" type="video/mp4">
             </video>
           </div>
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- End video carousel -->
 
 
