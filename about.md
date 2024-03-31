@@ -74,14 +74,14 @@ Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
   />
 </center>
 
-### Domestic
+<!-- ### Domestic
 + Elkhan Ismayilzada, Muhammadjon Boboev, Jihyeon Kim, **Junuk Cha**, Mubarrat Chowdhury, Juheon hwang, Dukhyun Kim, Jinwoo Park, Seungryul Baek, **"Human mask generation using pose estimator and salient object detector"**, in Proc. 2023 Summer Conference of Institute of Electronics and Information Engineers (IEIE), 2023.
 
 + Jihyeon Kim, **Junuk Cha**, Yeongjun Choo, Minjae Lee, Jitae Yoo, Yeonghun Oh, Hoseong Cho, Eunseo Kim, Chungseok Choi, Honggyu Lim, Donguk Min, Eugene Shin, Seokun Kang and Seungryul Baek, **"Free-form Masked Facial Image Inpainting via Exploiting 2D and 3D Information"**, CKAIA, 2022.
 
 + Jihyeon Kim, Changhwa Lee, Seongyeong Lee, **Junuk Cha**, Hansoo Park, Donguk Kim and Seungryul Baek, **"Finger Bendedness Classification from 3D Pose Regression"**, JKAIA, 2021.
 
-+ Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, **Junuk Cha**, Hansol Lee, Yunseong Cho, Seungryul Baek, **"3D simulation via hand pose estimation and model simplification"**, 2021년도 대한전기학회 하계학술대회 논문집 (2021.7.15~17).
++ Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, **Junuk Cha**, Hansol Lee, Yunseong Cho, Seungryul Baek, **"3D simulation via hand pose estimation and model simplification"**, 2021년도 대한전기학회 하계학술대회 논문집 (2021.7.15~17). -->
 
 ## Internships
 <center>
