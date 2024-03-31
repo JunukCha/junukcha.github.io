@@ -104,18 +104,18 @@ Research Scientist/Engineer Intern at Adobe, San Jose, CA, USA
 + Development of vision recognition module for ARTG control, Ministry of Oceans and Fisheries, 2023.06 ~ present
     - Detecting object and predicting multi agent's future trajectory with velocity
 
-+ Unsupervised Context Information Detection and Context-Based Pose Estimation for Multiple Persons, 다수 사람에 대한 비지도 방식의 문맥 정보 탐지 및 문맥 기반 자세 추정, 2022.08~2023.05
-    -   Estimating pose and shape of multi person while detecting them.
-
-+ Development of an optimized human detection system algorithm for production factory environments, Hyundai, 2022.06~
++ Development of an optimized human detection system algorithm for production factory environments, Hyundai, 2022.06~2023.12
     -  Detecting human segmentation masks and bounding boxes
     -  Improving performance for corner cases such as occluded people
 
-+ Research on High-Performance, Real-Time Detection and Elimination Technology for On-Site Workers in CCTV, CCTV 내 현장 작업자의 고성능,실시간 검출 및 소거 기술 연구, 2022.03~2022.05
-    - Auto removing workers from CCTV images.
+<!-- + Unsupervised Context Information Detection and Context-Based Pose Estimation for Multiple Persons, 다수 사람에 대한 비지도 방식의 문맥 정보 탐지 및 문맥 기반 자세 추정, 2022.08~2023.05
+    -   Estimating pose and shape of multi person while detecting them. -->
 
-+ Development of Control Intention Recognition Technology for Non-contact Long-range Virtual Touch Panels that Block Transmission of Contact Infections at the Source, 접촉감염이 원천 차단되는 비접촉 원거리 가상터치 패널의 제어의도 인식기술 개발, 2021.03~2021.11
-    - Estimating hand position from top-view image.
+<!-- + Research on High-Performance, Real-Time Detection and Elimination Technology for On-Site Workers in CCTV, CCTV 내 현장 작업자의 고성능,실시간 검출 및 소거 기술 연구, 2022.03~2022.05
+    - Auto removing workers from CCTV images. -->
+
+<!-- + Development of Control Intention Recognition Technology for Non-contact Long-range Virtual Touch Panels that Block Transmission of Contact Infections at the Source, 접촉감염이 원천 차단되는 비접촉 원거리 가상터치 패널의 제어의도 인식기술 개발, 2021.03~2021.11
+    - Estimating hand position from top-view image. -->
 
 ## Teaching Assistant & Mentoring
 + Mentoring 
