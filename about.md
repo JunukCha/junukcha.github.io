@@ -101,10 +101,10 @@ Research Scientist/Engineer Intern at Adobe, San Jose, CA, USA
 + Dangerous Region Approaching Worker Detection and Stopping Machine Device Based on Thermal Images, 2023. Applicant : UNIST and Hyundai
 
 ## Projects
-+ Development of vision recognition module for ARTG control, Ministry of Oceans and Fisheries, 2023.06 ~ present
++ Development of vision recognition module for ARTG control, Ministry of Oceans and Fisheries, Jun. 2023 ~ Dec. 2023
     - Detecting object and predicting multi agent's future trajectory with velocity
 
-+ Development of an optimized human detection system algorithm for production factory environments, Hyundai, 2022.06~2023.12
++ Development of an optimized human detection system algorithm for production factory environments, Hyundai, Jun. 2022 ~ Dec. 2023
     -  Detecting human segmentation masks and bounding boxes
     -  Improving performance for corner cases such as occluded people
 
