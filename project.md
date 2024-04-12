@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-permalink: /project/
-title: Project
-type: project
+permalink: /projects/
+title: Projects
+type: projects
 ---
