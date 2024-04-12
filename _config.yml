@@ -57,3 +57,9 @@ author:
   name: JunukCha
   url: https://github.com/junukcha/
   email: jucha@unist.ac.kr
+
+# collections
+collections:
+  projects:
+    output: true
+    permalink: /projects
