@@ -1,5 +1,6 @@
 ---
-layout: text2hoi
-permalink: /project/text2hoi/
-title: text2hoi
+layout: archive-taxonomies
+permalink: /project/
+title: Project
+type: project
 ---
