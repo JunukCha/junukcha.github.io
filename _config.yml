@@ -62,4 +62,4 @@ author:
 collections:
   projects:
     output: true
-    permalink: /projects
+    permalink: /projects/
