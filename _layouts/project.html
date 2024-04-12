@@ -1,2 +1,79 @@
+---
+layout: default
+---
+
+{% include home-header.html %} 
+
 <h1>Projects</h1>
-<h1>Projects</h1>
+{% comment %} Check the type of archive {% endcomment %}
+
+{%- assign projects = site.projects -%}
+
+{% comment %} Calculate the max count of projects {% endcomment %}
+{%- assign max_count = 0 -%}
+{%- for project in projects -%}
+  {%- assign posts = project[1] -%}
+  {%- if posts.size > max_count -%}
+    {%- assign max_count = posts.size -%}
+  {%- endif -%}
+{%- endfor -%}
+
+<div class="projects-wrapper">
+  <ul class="projects">
+    {%- for i in (1..max_count) reversed -%}
+      {%- for project in projects -%}
+        {%- assign project_name = project[0] -%}
+        {%- assign slugified_project_name = project_name | slugify -%}
+        {%- assign posts = project[1] -%}
+        {%- if posts.size == i -%}
+          <li>
+            {%- capture link -%}{{ page.permalink }}#{{ slugified_project_name }}{%- endcapture -%}
+            <a class="project" href="{{ link | relative_url }}">
+              <span>
+                {%- if page.type == 'tags' -%}
+                  {{ slugified_project_name }}
+                {%- else -%}
+                  {{ project_name }}
+                {%- endif -%}
+              </span>
+              <span class="project-count">{{ posts.size }}</span>
+            </a>
+          </li>
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endfor -%}
+  </ul>
+</div>
+
+{% comment %} Show posts by project {% endcomment %}
+{%- for i in (1..max_count) reversed -%}
+  {%- for project in projects -%}
+    {%- assign project_name = project[0] -%}
+    {%- assign slugified_project_name = project_name | slugify -%}
+    {%- assign posts = project[1] -%}
+    {%- if posts.size == i -%}
+      <h2 id="{{ slugified_project_name }}">
+        {%- if page.type == 'tags' -%}
+          {{ slugified_project_name }}
+        {%- else -%}
+          {{ project_name }}
+        {%- endif -%}
+      </h2>
+      <ul class="post-list-by-project">
+        {%- for post in posts -%}
+          <li>
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time> &raquo; <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </li>
+        {%- endfor -%}
+      </ul>
+      <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+<script>
+  function backToTop() {
+    const main = document.getElementById("site-main");
+    main.scrollTop = 0;
+  }
+</script>
