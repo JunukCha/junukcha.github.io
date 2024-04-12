@@ -60,6 +60,4 @@ author:
 
 # collections
 collections:
-  projects:
-    output: true
-    permalink: /projects/
+  - projects
