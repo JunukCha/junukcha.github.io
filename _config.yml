@@ -60,4 +60,5 @@ author:
 
 # collections
 collections:
-  - projects
+  projects:
+    output: true
