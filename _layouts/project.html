@@ -10,9 +10,3 @@ layout: default
 
 {% comment %} Calculate the max count of projects {% endcomment %}
 {%- assign max_count = 0 -%}
-{%- for project in projects -%}
-  {%- assign posts = project[1] -%}
-  {%- if posts.size > max_count -%}
-    {%- assign max_count = posts.size -%}
-  {%- endif -%}
-{%- endfor -%}
