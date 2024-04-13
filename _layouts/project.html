@@ -9,5 +9,20 @@ layout: default
 {%- assign projects = site.projects -%}
 
 {% comment %} Calculate the max count of projects {% endcomment %}
-{%- assign max_count = 0 -%}
-<h1>{{ projects.size }}</h1>
+
+{% comment %} Show posts by project {% endcomment %}
+{%- for project in projects -%}
+  <ul class="post-list-by-project">
+  <li>
+    <a href="{{ project.url | relative_url }}">{{ project.title | escape }}</a>
+  </li>
+  </ul>
+  <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
+{%- endfor -%}
+
+<script>
+  function backToTop() {
+    const main = document.getElementById("site-main");
+    main.scrollTop = 0;
+  }
+</script>
