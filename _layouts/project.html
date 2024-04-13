@@ -10,6 +10,4 @@ layout: default
 
 {% comment %} Calculate the max count of projects {% endcomment %}
 {%- assign max_count = 0 -%}
-{%- for project in projects -%}
-  <h1>{{ project[0] }}</h1>
-{%- endfor -%}
+<h1>{{ projects.size }}</h1>
