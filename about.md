@@ -39,7 +39,7 @@ Equal contribution*.\\
   />
 </center>
 
-+ **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**\\
++ **3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image**\\
 **Junuk Cha**, Hansol Lee, Jaewon Kim, Bao Truong, Jae Shin Yoon\*, Seungryul Baek\*.\\
 in Proc. of IEEE Winter Conf. on Applications of Computer Vision (**WACV**), Hawaii, USA, 2024.\\
 Co-last authors*.\\
@@ -50,7 +50,7 @@ Co-last authors*.\\
   />
 </center>
 
-+ **"Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement"**\\
++ **Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement**\\
 **Junuk Cha**, Muhammad Saqlain, GeonU Kim, Mingyu Shin, Seungryul Baek.\\
 in Proc. of European Conference on Computer Vision (**ECCV**), Tel Aviv, Israel, 2022.\\
 \[[PDF](https://arxiv.org/pdf/2210.13529.pdf)\]\[[Code](https://github.com/JunukCha/MultiPerson)\]
@@ -61,7 +61,7 @@ in Proc. of European Conference on Computer Vision (**ECCV**), Tel Aviv, Israel,
 </center>
 
 ### International journal and arxiv
-+ **"Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera"**\\
++ **Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera**\\
 Hansol Lee, **Junuk Cha**, Yunhoe Ku, Jae Shin Yoon\*, Seungryul Baek\*.\\
 in arXiv 2023.\\
 Co-last authors*.\\
@@ -72,7 +72,7 @@ Co-last authors*.\\
   />
 </center>
 
-+ **"HOReeNet: 3D-aware Hand-Object Grasping Reenactment"**\\
++ **HOReeNet: 3D-aware Hand-Object Grasping Reenactment**\\
 Changhwa Lee, **Junuk Cha**, Hansol Lee, Seongyeong Lee, Donguk Kim, Seungryul Baek.\\
 in arXiv 2022.\\
 \[[PDF](https://arxiv.org/pdf/2211.06195.pdf)\]
@@ -82,7 +82,7 @@ in arXiv 2022.\\
   />
 </center>
 
-+ **"Learning 3D Skeletal Representation From Transformer for Action Recognition"**\\
++ **Learning 3D Skeletal Representation From Transformer for Action Recognition**\\
 **Junuk Cha**, Muhammad Saqlain, Donguk Kim, Seungeun Lee, Seongyeong Lee, Seungryul Baek.\\
 in IEEE Access 2022 (IF: 3.367).\\
 \[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9802105)\]
@@ -92,7 +92,7 @@ in IEEE Access 2022 (IF: 3.367).\\
   />
 </center>
 
-+ **"3DMesh-GAR: 3D human body mesh-based method for group activity recognition"**\\
++ **3DMesh-GAR: 3D human body mesh-based method for group activity recognition**\\
 Muhammad Saqlain, Donguk Kim, **Junuk Cha**, Changhwa Lee, Seongyeong Lee, Seungryul Baek.\\
 in Sensors 2022 (IF:3.576).\\
 \[[PDF](https://www.mdpi.com/1424-8220/22/4/1464)\]
@@ -102,7 +102,7 @@ in Sensors 2022 (IF:3.576).\\
   />
 </center>
 
-+ **"Towards Single 2D Image-level Self-supervision for 3D Human Pose and Shape Estimation"**\\
++ **Towards Single 2D Image-level Self-supervision for 3D Human Pose and Shape Estimation**\\
 **Junuk Cha**, Muhammad Saqlain, Changhwa Lee, Seongyeong Lee, Seungeun Lee, Donguk Kim, Won-Hee Park, Seungryul Baek.\\
 in Journal of Applied Sciences 2021 (IF:2.679).\\
 \[[PDF](https://www.mdpi.com/2076-3417/11/20/9724)\]\[[Code](https://github.com/JunukCha/SSPSE)\]
@@ -113,13 +113,13 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 </center>
 
 <!-- ### Domestic
-+ Elkhan Ismayilzada, Muhammadjon Boboev, Jihyeon Kim, **Junuk Cha**, Mubarrat Chowdhury, Juheon hwang, Dukhyun Kim, Jinwoo Park, Seungryul Baek, **"Human mask generation using pose estimator and salient object detector"**, in Proc. 2023 Summer Conference of Institute of Electronics and Information Engineers (IEIE), 2023.
++ Elkhan Ismayilzada, Muhammadjon Boboev, Jihyeon Kim, **Junuk Cha**, Mubarrat Chowdhury, Juheon hwang, Dukhyun Kim, Jinwoo Park, Seungryul Baek, **Human mask generation using pose estimator and salient object detector**, in Proc. 2023 Summer Conference of Institute of Electronics and Information Engineers (IEIE), 2023.
 
-+ Jihyeon Kim, **Junuk Cha**, Yeongjun Choo, Minjae Lee, Jitae Yoo, Yeonghun Oh, Hoseong Cho, Eunseo Kim, Chungseok Choi, Honggyu Lim, Donguk Min, Eugene Shin, Seokun Kang and Seungryul Baek, **"Free-form Masked Facial Image Inpainting via Exploiting 2D and 3D Information"**, CKAIA, 2022.
++ Jihyeon Kim, **Junuk Cha**, Yeongjun Choo, Minjae Lee, Jitae Yoo, Yeonghun Oh, Hoseong Cho, Eunseo Kim, Chungseok Choi, Honggyu Lim, Donguk Min, Eugene Shin, Seokun Kang and Seungryul Baek, **Free-form Masked Facial Image Inpainting via Exploiting 2D and 3D Information**, CKAIA, 2022.
 
-+ Jihyeon Kim, Changhwa Lee, Seongyeong Lee, **Junuk Cha**, Hansoo Park, Donguk Kim and Seungryul Baek, **"Finger Bendedness Classification from 3D Pose Regression"**, JKAIA, 2021.
++ Jihyeon Kim, Changhwa Lee, Seongyeong Lee, **Junuk Cha**, Hansoo Park, Donguk Kim and Seungryul Baek, **Finger Bendedness Classification from 3D Pose Regression**, JKAIA, 2021.
 
-+ Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, **Junuk Cha**, Hansol Lee, Yunseong Cho, Seungryul Baek, **"3D simulation via hand pose estimation and model simplification"**, 2021년도 대한전기학회 하계학술대회 논문집 (2021.7.15~17). -->
++ Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, **Junuk Cha**, Hansol Lee, Yunseong Cho, Seungryul Baek, **3D simulation via hand pose estimation and model simplification**, 2021년도 대한전기학회 하계학술대회 논문집 (2021.7.15~17). -->
 
 ## Internships
 <center>
