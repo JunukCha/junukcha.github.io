@@ -20,17 +20,17 @@ Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 + **Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction**\\
 **Junuk Cha** Jihyeon Kim, Jae Shin Yoon\*, Seungryul Baek\*\\
 in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Seattle, USA, 2024. Co-last authors*.\\
-\[[PDF](https://arxiv.org/pdf/2404.00562v2.pdf)\]\[[Project](https://junukcha.github.io/project/text2hoi/)\]
+\[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Cha_Text2HOI_Text-guided_3D_Motion_Generation_for_Hand-Object_Interaction_CVPR_2024_paper.pdf)\]\[[Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Cha_Text2HOI_Text-guided_3D_CVPR_2024_supplemental.zip)\]\[[Arxiv](https://arxiv.org/pdf/2404.00562v2.pdf)\]\[[Project](https://junukcha.github.io/project/text2hoi/)\]
 <center>
   <img
     src="/media/images/publications/text2hoi.png" alt="text-guided 3D motion generation for hand-object interaction" width="80%"
   />
 </center>
 
-+ Junsu Kim, Yunhoe Ku\*, Jihyeon Kim\*, **Junuk Cha**, Seungryul Baek, **VLM-PL: Advanced Pseudo Labeling Approach for Class Incremental Object Detection via Vision-Language Model**, in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**) workshop, Seattle, USA, 2024. Equal contribution*. \[[PDF](https://arxiv.org/pdf/2404.00562v2.pdf)\]\[[Project](https://junukcha.github.io/project/text2hoi/)\]
++ Junsu Kim, Yunhoe Ku\*, Jihyeon Kim\*, **Junuk Cha**, Seungryul Baek, **VLM-PL: Advanced Pseudo Labeling Approach for Class Incremental Object Detection via Vision-Language Model**, in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**) workshop, Seattle, USA, 2024. Equal contribution*. \[[Paper](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/papers/Kim_VLM-PL_Advanced_Pseudo_Labeling_Approach_for_Class_Incremental_Object_Detection_CVPRW_2024_paper.pdf)\]\[[Arxiv](https://arxiv.org/pdf/2403.05346)\]
 <center>
   <img
-    src="/media/images/publications/text2hoi.png" alt="text-guided 3D motion generation for hand-object interaction" width="80%"
+    src="/media/images/publications/vlm_pl.png" alt="Advanced Pseudo Labeling Approach for Class Incremental Object Detection via Vision-Language Model" width="80%"
   />
 </center>
 
