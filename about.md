@@ -18,8 +18,9 @@ Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 ## Researches
 ### International Conference
 + **Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction**\\
-**Junuk Cha** Jihyeon Kim, Jae Shin Yoon\*, Seungryul Baek\*\\
-in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Seattle, USA, 2024. Co-last authors*.\\
+**Junuk Cha** Jihyeon Kim, Jae Shin Yoon\*, Seungryul Baek.\*\\
+in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Seattle, USA, 2024.\\
+Co-last authors*.\\
 \[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Cha_Text2HOI_Text-guided_3D_Motion_Generation_for_Hand-Object_Interaction_CVPR_2024_paper.pdf)\]\[[Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Cha_Text2HOI_Text-guided_3D_CVPR_2024_supplemental.zip)\]\[[Arxiv](https://arxiv.org/pdf/2404.00562v2.pdf)\]\[[Project](https://junukcha.github.io/project/text2hoi/)\]
 <center>
   <img
@@ -27,21 +28,32 @@ in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Se
   />
 </center>
 
-+ Junsu Kim, Yunhoe Ku\*, Jihyeon Kim\*, **Junuk Cha**, Seungryul Baek, **VLM-PL: Advanced Pseudo Labeling Approach for Class Incremental Object Detection via Vision-Language Model**, in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**) workshop, Seattle, USA, 2024. Equal contribution*. \[[Paper](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/papers/Kim_VLM-PL_Advanced_Pseudo_Labeling_Approach_for_Class_Incremental_Object_Detection_CVPRW_2024_paper.pdf)\]\[[Arxiv](https://arxiv.org/pdf/2403.05346)\]
++ **VLM-PL: Advanced Pseudo Labeling Approach for Class Incremental Object Detection via Vision-Language Model**\\
+Junsu Kim, Yunhoe Ku\*, Jihyeon Kim\*, **Junuk Cha**, Seungryul Baek.\\
+in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**) workshop, Seattle, USA, 2024.\\
+Equal contribution*.\\
+\[[Paper](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/papers/Kim_VLM-PL_Advanced_Pseudo_Labeling_Approach_for_Class_Incremental_Object_Detection_CVPRW_2024_paper.pdf)\]\[[Arxiv](https://arxiv.org/pdf/2403.05346)\]
 <center>
   <img
     src="/media/images/publications/vlm_pl.png" alt="Advanced Pseudo Labeling Approach for Class Incremental Object Detection via Vision-Language Model" width="80%"
   />
 </center>
 
-+ **Junuk Cha**, Hansol Lee, Jaewon Kim, Bao Truong, Jae Shin Yoon\*, Seungryul Baek\*, **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**, in Proc. of IEEE Winter Conf. on Applications of Computer Vision (**WACV**), Hawaii, USA, 2024. Co-last authors*. \[[PDF](https://arxiv.org/pdf/2401.06415.pdf)\]
++ **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**\\
+**Junuk Cha**, Hansol Lee, Jaewon Kim, Bao Truong, Jae Shin Yoon\*, Seungryul Baek\*.\\
+in Proc. of IEEE Winter Conf. on Applications of Computer Vision (**WACV**), Hawaii, USA, 2024.\\
+Co-last authors*.\\
+\[[PDF](https://arxiv.org/pdf/2401.06415.pdf)\]
 <center>
   <img
     src="/media/images/publications/MultiRecon.png" alt="clothed mesh reconsturction of multi-person" width="80%"
   />
 </center>
 
-+ **Junuk Cha**, Muhammad Saqlain, GeonU Kim, Mingyu Shin, Seungryul Baek, **"Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement"**, in Proc. of European Conference on Computer Vision (**ECCV**), Tel Aviv, Israel, 2022. \[[PDF](https://arxiv.org/pdf/2210.13529.pdf)\]\[[Code](https://github.com/JunukCha/MultiPerson)\]
++ **"Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement"**\\
+**Junuk Cha**, Muhammad Saqlain, GeonU Kim, Mingyu Shin, Seungryul Baek.\\
+in Proc. of European Conference on Computer Vision (**ECCV**), Tel Aviv, Israel, 2022.\\
+\[[PDF](https://arxiv.org/pdf/2210.13529.pdf)\]\[[Code](https://github.com/JunukCha/MultiPerson)\]
 <center>
   <img
     src="/media/images/publications/MultiMesh.png" alt="mesh reconsturction of multi-person" width="80%"
@@ -49,35 +61,51 @@ in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Se
 </center>
 
 ### International journal and arxiv
-+ Hansol Lee, **Junuk Cha**, Yunhoe Ku, Jae Shin Yoon\*, Seungryul Baek\*, **"Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera"**, in arXiv 2023. Co-last authors*. \[[PDF](https://arxiv.org/pdf/2312.16842.pdf)\]
++ **"Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera"**\\
+Hansol Lee, **Junuk Cha**, Yunhoe Ku, Jae Shin Yoon\*, Seungryul Baek\*.\\
+in arXiv 2023.\\
+Co-last authors*.\\
+\[[PDF](https://arxiv.org/pdf/2312.16842.pdf)\]
 <center>
   <img
     src="/media/images/publications/DynamicAppearance.gif" alt="reconstruction of dynamic appearance" width="80%"
   />
 </center>
 
-+ Changhwa Lee, **Junuk Cha**, Hansol Lee, Seongyeong Lee, Donguk Kim, Seungryul Baek, **"HOReeNet: 3D-aware Hand-Object Grasping Reenactment"**, in arXiv 2022. \[[PDF](https://arxiv.org/pdf/2211.06195.pdf)\]
++ **"HOReeNet: 3D-aware Hand-Object Grasping Reenactment"**\\
+Changhwa Lee, **Junuk Cha**, Hansol Lee, Seongyeong Lee, Donguk Kim, Seungryul Baek.\\
+in arXiv 2022.\\
+\[[PDF](https://arxiv.org/pdf/2211.06195.pdf)\]
 <center>
   <img
     src="/media/images/publications/HOImage.png" alt="generation of hand-object image" width="50%"
   />
 </center>
 
-+ **Junuk Cha**, Muhammad Saqlain, Donguk Kim, Seungeun Lee, Seongyeong Lee, Seungryul Baek, **"Learning 3D Skeletal Representation From Transformer for Action Recognition"**, in IEEE Access 2022 (IF: 3.367). \[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9802105)\]
++ **"Learning 3D Skeletal Representation From Transformer for Action Recognition"**\\
+**Junuk Cha**, Muhammad Saqlain, Donguk Kim, Seungeun Lee, Seongyeong Lee, Seungryul Baek.\\
+in IEEE Access 2022 (IF: 3.367).\\
+\[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9802105)\]
 <center>
   <img
     src="/media/images/publications/ActionRecog.png" alt="recognition of action" width="40%"
   />
 </center>
 
-+ Muhammad Saqlain, Donguk Kim, **Junuk Cha**, Changhwa Lee, Seongyeong Lee, Seungryul Baek, **"3DMesh-GAR: 3D human body mesh-based method for group activity recognition"**, in Sensors 2022 (IF:3.576). \[[PDF](https://www.mdpi.com/1424-8220/22/4/1464)\]
++ **"3DMesh-GAR: 3D human body mesh-based method for group activity recognition"**\\
+Muhammad Saqlain, Donguk Kim, **Junuk Cha**, Changhwa Lee, Seongyeong Lee, Seungryul Baek.\\
+in Sensors 2022 (IF:3.576).\\
+\[[PDF](https://www.mdpi.com/1424-8220/22/4/1464)\]
 <center>
   <img
     src="/media/images/publications/GroupActionRecog.png" alt="recognition of group action" width="80%"
   />
 </center>
 
-+ **Junuk Cha**, Muhammad Saqlain, Changhwa Lee, Seongyeong Lee, Seungeun Lee, Donguk Kim, Won-Hee Park, Seungryul Baek, **"Towards Single 2D Image-level Self-supervision for 3D Human Pose and Shape Estimation"**, in Journal of Applied Sciences 2021 (IF:2.679). \[[PDF](https://www.mdpi.com/2076-3417/11/20/9724)\] \[[Code](https://github.com/JunukCha/SSPSE)\]
++ **"Towards Single 2D Image-level Self-supervision for 3D Human Pose and Shape Estimation"**\\
+**Junuk Cha**, Muhammad Saqlain, Changhwa Lee, Seongyeong Lee, Seungeun Lee, Donguk Kim, Won-Hee Park, Seungryul Baek.\\
+in Journal of Applied Sciences 2021 (IF:2.679).\\
+\[[PDF](https://www.mdpi.com/2076-3417/11/20/9724)\]\[[Code](https://github.com/JunukCha/SSPSE)\]
 <center>
   <img
     src="/media/images/publications/SelfSuperMesh.png" alt="self-supervised mesh reconstruaction" width="50%"
