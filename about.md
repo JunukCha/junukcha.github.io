@@ -124,13 +124,23 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 ## Internships
 <center>
   <img
-    src="/media/images/internships/adobe.png" alt="adobe" width="50%"
+    src="/media/images/internships/inria.png" alt="adobe" width="25%"
+  />
+</center>
+Research Intern at Inria, Nice, France
+(Sep. 2024 - Nov. 2024)
+
+<center>
+  <img
+    src="/media/images/internships/adobe.png" alt="adobe" width="25%"
   />
 </center>
 Research Scientist/Engineer Intern at Adobe, San Jose, CA, USA
 (Feb. 2024 - May 2024)
 
 ## Academic Activities
++ Program Committee (Reviewer) at AAAI 2025.
++ Program Committee (Reviewer) at NIPS 2024.
 + Program Committee (Reviewer) at BMVC 2024.
 + Program Committee (Reviewer) at AAAI 2024.
 + Program Committee (Emergency-Reviewer) at BMVC 2023.
