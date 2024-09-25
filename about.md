@@ -122,19 +122,15 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 + Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, **Junuk Cha**, Hansol Lee, Yunseong Cho, Seungryul Baek, **3D simulation via hand pose estimation and model simplification**, 2021년도 대한전기학회 하계학술대회 논문집 (2021.7.15~17). -->
 
 ## Internships
-<center>
-  <img
-    src="/media/images/internships/inria.png" alt="adobe" width="25%"
-  />
-</center>
+<img
+  src="/media/images/internships/inria.png" alt="adobe" width="25%"
+/>
 Research Intern at Inria, Nice, France
 (Sep. 2024 - Nov. 2024)
 
-<center>
-  <img
-    src="/media/images/internships/adobe.png" alt="adobe" width="25%"
-  />
-</center>
+<img
+  src="/media/images/internships/adobe.png" alt="adobe" width="25%"
+/>
 Research Scientist/Engineer Intern at Adobe, San Jose, CA, USA
 (Feb. 2024 - May 2024)
 
