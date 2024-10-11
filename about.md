@@ -20,7 +20,7 @@ Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 + **3DGS-based Bimanual Category-agnostic Interaction Reconstruction**\\
 Jeongwan On, Kyeonghwan Gwak, Gunyoung Kang, Hyein Hwang, Soohyun Hwang, **Junuk Cha**, Jaewook Han, Seungryul Baek\\
 in Technical Report of European Conference on Computer Vision (**ECCV**), Milan, Italy, 2024.\\
-We got 1st place at the bimanual category-agnostic interaction reconstruction challenge.
+We got 1st place at the bimanual category-agnostic interaction reconstruction challenge.\\
 \[[Paper](https://hands-workshop.org/files/2024/UVHANDS.pdf)\]
 <center>
   <img
