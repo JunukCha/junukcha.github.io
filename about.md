@@ -17,6 +17,17 @@ Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 
 ## Researches
 ### International Conference
++ **3DGS-based Bimanual Category-agnostic Interaction Reconstruction**\\
+Jeongwan On, Kyeonghwan Gwak, Gunyoung Kang, Hyein Hwang, Soohyun Hwang, **Junuk Cha**, Jaewook Han, Seungryul Baek\\
+in Technical Report of European Conference on Computer Vision (**ECCV**), Milan, Italy, 2024.\\
+We got 1st place at the bimanual category-agnostic interaction reconstruction challenge.
+\[[Paper](https://hands-workshop.org/files/2024/UVHANDS.pdf)\]
+<center>
+  <img
+    src="/media/images/publications/eccv2024_challenge.png" alt="3DGS-based Bimanual Category-agnostic Interaction Reconstruction" width="80%"
+  />
+</center>
+
 + **Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction**\\
 **Junuk Cha** Jihyeon Kim, Jae Shin Yoon\*, Seungryul Baek.\*\\
 in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Seattle, USA, 2024.\\
