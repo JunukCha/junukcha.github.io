@@ -13,7 +13,9 @@ Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 ## Research Interests
 + Computer Vision and deep learning.
 + 3D human body pose estimation, 3D human body mesh reconstruction, 3D motion generation.
-+ Action recognition and clothed human mesh reconstruction. 
++ Action recognition and clothed human mesh reconstruction.
++ Text-guided 2D image editing.
++ Audio-driven talking head synthesis.
 
 ## Researches
 ### International Conference
