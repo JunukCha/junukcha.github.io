@@ -10,3 +10,6 @@
 - title: GitHub
   url: https://github.com/junukcha
   icon: fab fa-github
+- title: GoogleScholar
+  url: https://scholar.google.com/citations?user=DmTVKDIAAAAJ&hl=en
+  icon: fab fa-google-scholar
