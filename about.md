@@ -10,6 +10,10 @@ Email: <jucha@unist.ac.kr> (official), <junukcha@gmail.com> (personal)
 
 Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 
+## Education
++ M.S./Ph.D. in Artificial Intelligence, UNIST, South Korea, Mar. 2021 - Feb. 2025 (expected)
++ B.S. in Mechanical Engineering, UNIST, South Korea, Mar. 2015 - Feb. 2021
+
 ## Research Interests
 + Computer Vision and deep learning.
 + 3D human body pose estimation, 3D human body mesh reconstruction, 3D motion generation.
