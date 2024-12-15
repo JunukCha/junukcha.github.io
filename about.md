@@ -23,6 +23,17 @@ Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 
 ## Researches
 ### International Conference
++ **Text2Relight: Creative Portrait Relighting with Text Guidance**\\
+**Junuk Cha**, Mengwei Ren, Krishna Kumar Singh, He Zhang, Yannick Hold-Geoffroy, Seunghyun Yoon, HyunJoon Jung, Jae Shin Yoon*, Seungryul Baek*\\
+in Proc. of Association for the Advancement of Artificial Intelligence (**AAAI**), Philadelphia, USA, 2025.\\
+Co-last authors*.\\
+\[[Paper (coming soon)](.)\]
+<center>
+  <img
+    src="/media/images/publications/AAAI2025.png" alt="Text2Relight: Creative Portrait Relighting with Text Guidance" width="80%"
+  />
+</center>
+
 + **3DGS-based Bimanual Category-agnostic Interaction Reconstruction**\\
 Jeongwan On, Kyeonghwan Gwak, Gunyoung Kang, Hyein Hwang, Soohyun Hwang, **Junuk Cha**, Jaewook Han, Seungryul Baek\\
 in Technical Report of European Conference on Computer Vision (**ECCV**), Milan, Italy, 2024.\\
@@ -58,7 +69,7 @@ Equal contribution*.\\
 
 + **3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image**\\
 **Junuk Cha**, Hansol Lee, Jaewon Kim, Bao Truong, Jae Shin Yoon\*, Seungryul Baek\*.\\
-in Proc. of IEEE Winter Conf. on Applications of Computer Vision (**WACV**), Hawaii, USA, 2024.\\
+in Proc. of IEEE Winter Conf. on Applications of Computer Vision (**WACV**), Waikoloa, USA, 2024.\\
 Co-last authors*.\\
 \[[PDF](https://arxiv.org/pdf/2401.06415.pdf)\]
 <center>
