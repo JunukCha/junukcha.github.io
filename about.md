@@ -24,7 +24,7 @@ Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 ## Researches
 ### International Conference
 + **Text2Relight: Creative Portrait Relighting with Text Guidance**\\
-**Junuk Cha**, Mengwei Ren, Krishna Kumar Singh, He Zhang, Yannick Hold-Geoffroy, Seunghyun Yoon, HyunJoon Jung, Jae Shin Yoon*, Seungryul Baek*\\
+**Junuk Cha**, Mengwei Ren, Krishna Kumar Singh, He Zhang, Yannick Hold-Geoffroy, Seunghyun Yoon, HyunJoon Jung, Jae Shin Yoon\*, Seungryul Baek\*\\
 in Proc. of Association for the Advancement of Artificial Intelligence (**AAAI**), Philadelphia, USA, 2025.\\
 Co-last authors*.\\
 \[[Paper (arxiv)](https://arxiv.org/pdf/2412.13734)\]
