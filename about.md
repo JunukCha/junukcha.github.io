@@ -46,7 +46,7 @@ We got 1st place at the bimanual category-agnostic interaction reconstruction ch
 </center>
 
 + **Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction**\\
-**Junuk Cha** Jihyeon Kim, Jae Shin Yoon\*, Seungryul Baek.\*\\
+**Junuk Cha**, Jihyeon Kim, Jae Shin Yoon\*, Seungryul Baek.\*\\
 in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Seattle, USA, 2024.\\
 Co-last authors*.\\
 \[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Cha_Text2HOI_Text-guided_3D_Motion_Generation_for_Hand-Object_Interaction_CVPR_2024_paper.pdf)\]\[[Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Cha_Text2HOI_Text-guided_3D_CVPR_2024_supplemental.zip)\]\[[Arxiv](https://arxiv.org/pdf/2404.00562v2.pdf)\]\[[Project](https://junukcha.github.io/project/text2hoi/)\]
