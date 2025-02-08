@@ -11,8 +11,9 @@ Email: <jucha@unist.ac.kr> (official), <junukcha@gmail.com> (personal)
 Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 
 ## Education
-+ M.S./Ph.D. in Artificial Intelligence, UNIST, South Korea, Mar. 2021 - Feb. 2025 (expected)
++ M.S./Ph.D. in Artificial Intelligence, UNIST, South Korea, Mar. 2021 - Feb. 2025
 + B.S. in Mechanical Engineering, UNIST, South Korea, Mar. 2015 - Feb. 2021
++ Sergeant, Republic of Korea Army, Honorably Discharged, Jan. 2018 - Sep. 2019
 
 ## Research Interests
 + Computer Vision and deep learning.
@@ -21,10 +22,38 @@ Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 + Text-guided 2D image editing.
 + Audio-driven talking head synthesis.
 
-## Researches
-### International Conference
+## Work Experience
+<img
+  src="/media/images/internships/inria.png" alt="adobe" width="25%"
+/>
+Research Intern at Inria, Nice, France (Sep. 2024 - Nov. 2024)
+
+EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis (arxiv 2025)
+
+Collaborators: Seongro Yoon, Valeriya Strizhkova, Francois Bremond
+
+<img
+  src="/media/images/internships/adobe.png" alt="adobe" width="25%"
+/>
+Research Scientist/Engineer Intern at Adobe, San Jose, CA, USA (Feb. 2024 - May 2024)
+
+Text2Relight: Creative Portrait Relighting with Text Guidance (AAAI 2025)
+
+Collaborators: Jae Shin Yoon, Mengwei Ren, He Zhang, Krishna Kumar Singh, Yannick Hold‑Geoffroy, David Seunghyun Yoon, HyunJoon Jung
+
+## Publication
++ **EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis**\\
+**Junuk Cha**, Seongro Yoon, Valeriya Strizhkova, Francois Bremond, Seungryul Baek.\\
+in arXiv 2025.\\
+\[[PDF](https://arxiv.org/pdf/2502.00654v1)\]
+<center>
+  <img
+    src="/media/images/publications/EmoTalkingGaussian.png" alt="EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis" width="80%"
+  />
+</center>
+
 + **Text2Relight: Creative Portrait Relighting with Text Guidance**\\
-**Junuk Cha**, Mengwei Ren, Krishna Kumar Singh, He Zhang, Yannick Hold-Geoffroy, Seunghyun Yoon, HyunJoon Jung, Jae Shin Yoon\*, Seungryul Baek\*\\
+**Junuk Cha**, Mengwei Ren, Krishna Kumar Singh, He Zhang, Yannick Hold-Geoffroy, Seunghyun Yoon, HyunJoon Jung, Jae Shin Yoon\*, Seungryul Baek.\*\\
 in Proc. of Association for the Advancement of Artificial Intelligence (**AAAI**), Philadelphia, USA, 2025.\\
 Co-last authors*.\\
 \[[Paper (arxiv)](https://arxiv.org/pdf/2412.13734)\]
@@ -35,7 +64,7 @@ Co-last authors*.\\
 </center>
 
 + **3DGS-based Bimanual Category-agnostic Interaction Reconstruction**\\
-Jeongwan On, Kyeonghwan Gwak, Gunyoung Kang, Hyein Hwang, Soohyun Hwang, **Junuk Cha**, Jaewook Han, Seungryul Baek\\
+Jeongwan On, Kyeonghwan Gwak, Gunyoung Kang, Hyein Hwang, Soohyun Hwang, **Junuk Cha**, Jaewook Han, Seungryul Baek.\\
 in Technical Report of European Conference on Computer Vision (**ECCV**), Milan, Italy, 2024.\\
 We got 1st place at the bimanual category-agnostic interaction reconstruction challenge.\\
 \[[Paper](https://hands-workshop.org/files/2024/UVHANDS.pdf)\]
@@ -68,7 +97,7 @@ Equal contribution*.\\
 </center>
 
 + **3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image**\\
-**Junuk Cha**, Hansol Lee, Jaewon Kim, Bao Truong, Jae Shin Yoon\*, Seungryul Baek\*.\\
+**Junuk Cha**, Hansol Lee, Jaewon Kim, Bao Truong, Jae Shin Yoon\*, Seungryul Baek.\*.\\
 in Proc. of IEEE Winter Conf. on Applications of Computer Vision (**WACV**), Waikoloa, USA, 2024.\\
 Co-last authors*.\\
 \[[PDF](https://arxiv.org/pdf/2401.06415.pdf)\]
@@ -78,19 +107,8 @@ Co-last authors*.\\
   />
 </center>
 
-+ **Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement**\\
-**Junuk Cha**, Muhammad Saqlain, GeonU Kim, Mingyu Shin, Seungryul Baek.\\
-in Proc. of European Conference on Computer Vision (**ECCV**), Tel Aviv, Israel, 2022.\\
-\[[PDF](https://arxiv.org/pdf/2210.13529.pdf)\]\[[Code](https://github.com/JunukCha/MultiPerson)\]
-<center>
-  <img
-    src="/media/images/publications/MultiMesh.png" alt="mesh reconsturction of multi-person" width="80%"
-  />
-</center>
-
-### International journal and arxiv
 + **Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera**\\
-Hansol Lee, **Junuk Cha**, Yunhoe Ku, Jae Shin Yoon\*, Seungryul Baek\*.\\
+Hansol Lee, **Junuk Cha**, Yunhoe Ku, Jae Shin Yoon\*, Seungryul Baek.\*.\\
 in arXiv 2023.\\
 Co-last authors*.\\
 \[[PDF](https://arxiv.org/pdf/2312.16842.pdf)\]
@@ -107,6 +125,16 @@ in arXiv 2022.\\
 <center>
   <img
     src="/media/images/publications/HOImage.png" alt="generation of hand-object image" width="50%"
+  />
+</center>
+
++ **Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement**\\
+**Junuk Cha**, Muhammad Saqlain, GeonU Kim, Mingyu Shin, Seungryul Baek.\\
+in Proc. of European Conference on Computer Vision (**ECCV**), Tel Aviv, Israel, 2022.\\
+\[[PDF](https://arxiv.org/pdf/2210.13529.pdf)\]\[[Code](https://github.com/JunukCha/MultiPerson)\]
+<center>
+  <img
+    src="/media/images/publications/MultiMesh.png" alt="mesh reconsturction of multi-person" width="80%"
   />
 </center>
 
@@ -149,20 +177,9 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 
 + Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, **Junuk Cha**, Hansol Lee, Yunseong Cho, Seungryul Baek, **3D simulation via hand pose estimation and model simplification**, 2021년도 대한전기학회 하계학술대회 논문집 (2021.7.15~17). -->
 
-## Internships
-<img
-  src="/media/images/internships/inria.png" alt="adobe" width="25%"
-/>
-Research Intern at Inria, Nice, France
-(Sep. 2024 - Nov. 2024)
-
-<img
-  src="/media/images/internships/adobe.png" alt="adobe" width="25%"
-/>
-Research Scientist/Engineer Intern at Adobe, San Jose, CA, USA
-(Feb. 2024 - May 2024)
-
 ## Academic Activities
++ Program Committee (Reviewer) at CVPR 2025.
++ Program Committee (Reviewer) at ICLR 2025.
 + Program Committee (Reviewer) at AAAI 2025.
 + Program Committee (Reviewer) at NIPS 2024.
 + Program Committee (Reviewer) at BMVC 2024.
