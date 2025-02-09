@@ -2,9 +2,8 @@
 layout: page
 title: Junuk Cha
 ---
-{% include home-header.html %}
 
-{% capture about_content %}
-  {% include about_content.md %}
-{% endcapture %}
+{%- capture about_content -%}
+{% include about_content.md %}
+{%- endcapture -%}
 {{ about_content | markdownify }}
