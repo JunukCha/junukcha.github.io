@@ -3,4 +3,7 @@ layout: page
 title: Junuk Cha
 ---
 
-{% include about_content.md %}
+{% capture about_content %}
+  {% include about_content.md %}
+{% endcapture %}
+{{ about_content | markdownify }}
