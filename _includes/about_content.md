@@ -1,8 +1,3 @@
----
-layout: page
-title: Junuk Cha
----
-
 ## About Me
 My name is **Junuk Cha**, and I am currently a combined MS/PhD student affiliated to the Artificial Intelligence Graduate School ([AIGS](https://aigs.unist.ac.kr/web/index.php)) at [UNIST](https://www.unist.ac.kr) since March 2021. I obtained BS (2021) degree from Dept. of Mechanical Engineering at [UNIST](https://www.unist.ac.kr).
 
