@@ -40,7 +40,7 @@ Collaborators: Jae Shin Yoon, Mengwei Ren, He Zhang, Krishna Kumar Singh, Yannic
 + **EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis**\\
 **Junuk Cha**, Seongro Yoon, Valeriya Strizhkova, Francois Bremond, Seungryul Baek.\\
 in arXiv 2025.\\
-\[[PDF](https://arxiv.org/pdf/2502.00654v1)\]
+\[[Paper](https://arxiv.org/pdf/2502.00654v1)\]
 <center>
   <img
     src="/media/images/publications/EmoTalkingGaussian.png" alt="EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis" width="80%"
