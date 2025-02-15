@@ -77,7 +77,7 @@ Co-last authors*.\\
 \[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Cha_Text2HOI_Text-guided_3D_Motion_Generation_for_Hand-Object_Interaction_CVPR_2024_paper.pdf)\]\[[Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Cha_Text2HOI_Text-guided_3D_CVPR_2024_supplemental.zip)\]\[[Arxiv](https://arxiv.org/pdf/2404.00562v2.pdf)\]\[[Project](https://junukcha.github.io/project/text2hoi/)\]
 <center>
   <img
-    src="/media/images/publications/text2hoi.png" alt="text-guided 3D motion generation for hand-object interaction" width="50%"
+    src="/media/images/publications/text2hoi.png" alt="text-guided 3D motion generation for hand-object interaction" width="70%"
   />
 </center>
 
@@ -160,7 +160,7 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 \[[PDF](https://www.mdpi.com/2076-3417/11/20/9724)\]\[[Code](https://github.com/JunukCha/SSPSE)\]
 <center>
   <img
-    src="/media/images/publications/SelfSuperMesh.png" alt="self-supervised mesh reconstruaction" width="40%"
+    src="/media/images/publications/SelfSuperMesh.png" alt="self-supervised mesh reconstruaction" width="20%"
   />
 </center>
 
