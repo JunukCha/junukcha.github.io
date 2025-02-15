@@ -173,10 +173,10 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 + Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, **Junuk Cha**, Hansol Lee, Yunseong Cho, Seungryul Baek, **3D simulation via hand pose estimation and model simplification**, 2021년도 대한전기학회 하계학술대회 논문집 (2021.7.15~17). -->
 
 ## Awards
-+ The 8th Workshop on Observing and Understanding Hands in conjunction with **ECCV 2024**, **1st place in HANDS workshop challenge**
++ The 8th Workshop on Observing and Understanding Hands in conjunction with **ECCV 2024**, **1st place in HANDS workshop challenge**\\
 \[[Certificate](https://drive.google.com/file/d/1kAOOB1z7xaObAXAKhM140WHIEDOdK6a8/view?usp=sharing)\]
 
-+ The 7th Workshop on Observing and Understanding Hands in conjunction with **ICCV 2023**, **3rd place in HANDS workshop challenge**
++ The 7th Workshop on Observing and Understanding Hands in conjunction with **ICCV 2023**, **3rd place in HANDS workshop challenge**\\
 \[[Certificate](https://drive.google.com/file/d/11qTv8Lnp6QOXnseoUglQ5UvIV4sL1N1e/view?usp=sharing)\]
 
 ## Academic Activities
