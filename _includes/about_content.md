@@ -140,7 +140,7 @@ in IEEE Access 2022 (IF: 3.367).\\
 \[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9802105)\]
 <center>
   <img
-    src="/media/images/publications/ActionRecog.png" alt="recognition of action" width="40%"
+    src="/media/images/publications/ActionRecog.png" alt="recognition of action" width="30%"
   />
 </center>
 
