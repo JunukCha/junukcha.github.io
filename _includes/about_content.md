@@ -120,7 +120,7 @@ in arXiv 2022.\\
 \[[PDF](https://arxiv.org/pdf/2211.06195.pdf)\]
 <center>
   <img
-    src="/media/images/publications/HOImage.png" alt="generation of hand-object image" width="50%"
+    src="/media/images/publications/HOImage.png" alt="generation of hand-object image" width="30%"
   />
 </center>
 
@@ -160,7 +160,7 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 \[[PDF](https://www.mdpi.com/2076-3417/11/20/9724)\]\[[Code](https://github.com/JunukCha/SSPSE)\]
 <center>
   <img
-    src="/media/images/publications/SelfSuperMesh.png" alt="self-supervised mesh reconstruaction" width="50%"
+    src="/media/images/publications/SelfSuperMesh.png" alt="self-supervised mesh reconstruaction" width="40%"
   />
 </center>
 
