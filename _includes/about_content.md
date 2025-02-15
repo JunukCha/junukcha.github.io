@@ -1,14 +1,15 @@
 ## About Me
-My name is **Junuk Cha**, and I am currently a combined MS/PhD student affiliated to the Artificial Intelligence Graduate School ([AIGS](https://aigs.unist.ac.kr/web/index.php)) at [UNIST](https://www.unist.ac.kr) since March 2021. I obtained BS (2021) degree from Dept. of Mechanical Engineering at [UNIST](https://www.unist.ac.kr).
+My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affiliated with the Artificial Intelligence Graduate School ([AIGS](https://aigs.unist.ac.kr/web/index.php)) at [UNIST](https://www.unist.ac.kr) as part of the [UVL Lab](https://vision.unist.ac.kr), where I am adviced by Prof. [Seungryul Baek](https://sites.google.com/site/bsrvision00/). I obtained my BS (2021) degree from the Dept. of Mechanical Engineering at [UNIST](https://www.unist.ac.kr).
 
-Email: <jucha@unist.ac.kr> (official), <junukcha@gmail.com> (personal)
+**Email:**  
+- Official: <jucha@unist.ac.kr>  
+- Personal: <junukcha@gmail.com>
 
-Lab link: [UVL Lab webpage](https://vision.unist.ac.kr)
 
 ## Education
 + M.S./Ph.D. in Artificial Intelligence, UNIST, South Korea, Mar. 2021 - Feb. 2025
 + B.S. in Mechanical Engineering, UNIST, South Korea, Mar. 2015 - Feb. 2021
-+ Sergeant, Republic of Korea Army, Honorably Discharged, Jan. 2018 - Sep. 2019
+  - Sergeant, Republic of Korea Army, Honorably Discharged, Jan. 2018 - Sep. 2019
 
 ## Research Interests
 + Computer Vision and deep learning.
