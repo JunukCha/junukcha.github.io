@@ -44,7 +44,7 @@ in arXiv 2025.\\
 \[[Paper](https://arxiv.org/pdf/2502.00654v1)\]
 <center>
   <img
-    src="/media/images/publications/EmoTalkingGaussian.png" alt="EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis" width="80%"
+    src="/media/images/publications/EmoTalkingGaussian.png" alt="EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis" width="50%"
   />
 </center>
 
@@ -55,7 +55,7 @@ Co-last authors*.\\
 \[[Paper (arxiv)](https://arxiv.org/pdf/2412.13734)\]
 <center>
   <img
-    src="/media/images/publications/AAAI2025.png" alt="Text2Relight: Creative Portrait Relighting with Text Guidance" width="80%"
+    src="/media/images/publications/AAAI2025.png" alt="Text2Relight: Creative Portrait Relighting with Text Guidance" width="50%"
   />
 </center>
 
@@ -66,7 +66,7 @@ We got 1st place at the bimanual category-agnostic interaction reconstruction ch
 \[[Paper](https://hands-workshop.org/files/2024/UVHANDS.pdf)\]
 <center>
   <img
-    src="/media/images/publications/eccv2024_challenge.png" alt="3DGS-based Bimanual Category-agnostic Interaction Reconstruction" width="80%"
+    src="/media/images/publications/eccv2024_challenge.png" alt="3DGS-based Bimanual Category-agnostic Interaction Reconstruction" width="50%"
   />
 </center>
 
@@ -77,7 +77,7 @@ Co-last authors*.\\
 \[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Cha_Text2HOI_Text-guided_3D_Motion_Generation_for_Hand-Object_Interaction_CVPR_2024_paper.pdf)\]\[[Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Cha_Text2HOI_Text-guided_3D_CVPR_2024_supplemental.zip)\]\[[Arxiv](https://arxiv.org/pdf/2404.00562v2.pdf)\]\[[Project](https://junukcha.github.io/project/text2hoi/)\]
 <center>
   <img
-    src="/media/images/publications/text2hoi.png" alt="text-guided 3D motion generation for hand-object interaction" width="80%"
+    src="/media/images/publications/text2hoi.png" alt="text-guided 3D motion generation for hand-object interaction" width="50%"
   />
 </center>
 
@@ -88,7 +88,7 @@ Equal contribution*.\\
 \[[Paper](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/papers/Kim_VLM-PL_Advanced_Pseudo_Labeling_Approach_for_Class_Incremental_Object_Detection_CVPRW_2024_paper.pdf)\]\[[Arxiv](https://arxiv.org/pdf/2403.05346)\]
 <center>
   <img
-    src="/media/images/publications/vlm_pl.png" alt="Advanced Pseudo Labeling Approach for Class Incremental Object Detection via Vision-Language Model" width="80%"
+    src="/media/images/publications/vlm_pl.png" alt="Advanced Pseudo Labeling Approach for Class Incremental Object Detection via Vision-Language Model" width="50%"
   />
 </center>
 
@@ -99,7 +99,7 @@ Co-last authors*.\\
 \[[PDF](https://arxiv.org/pdf/2401.06415.pdf)\]
 <center>
   <img
-    src="/media/images/publications/MultiRecon.png" alt="clothed mesh reconsturction of multi-person" width="80%"
+    src="/media/images/publications/MultiRecon.png" alt="clothed mesh reconsturction of multi-person" width="50%"
   />
 </center>
 
@@ -110,7 +110,7 @@ Co-last authors*.\\
 \[[PDF](https://arxiv.org/pdf/2312.16842.pdf)\]
 <center>
   <img
-    src="/media/images/publications/DynamicAppearance.gif" alt="reconstruction of dynamic appearance" width="80%"
+    src="/media/images/publications/DynamicAppearance.gif" alt="reconstruction of dynamic appearance" width="50%"
   />
 </center>
 
@@ -130,7 +130,7 @@ in Proc. of European Conference on Computer Vision (**ECCV**), Tel Aviv, Israel,
 \[[PDF](https://arxiv.org/pdf/2210.13529.pdf)\]\[[Code](https://github.com/JunukCha/MultiPerson)\]
 <center>
   <img
-    src="/media/images/publications/MultiMesh.png" alt="mesh reconsturction of multi-person" width="80%"
+    src="/media/images/publications/MultiMesh.png" alt="mesh reconsturction of multi-person" width="50%"
   />
 </center>
 
@@ -150,7 +150,7 @@ in Sensors 2022 (IF:3.576).\\
 \[[PDF](https://www.mdpi.com/1424-8220/22/4/1464)\]
 <center>
   <img
-    src="/media/images/publications/GroupActionRecog.png" alt="recognition of group action" width="80%"
+    src="/media/images/publications/GroupActionRecog.png" alt="recognition of group action" width="50%"
   />
 </center>
 
