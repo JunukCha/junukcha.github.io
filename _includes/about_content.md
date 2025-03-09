@@ -5,12 +5,6 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
 - Official: <jucha@unist.ac.kr>  
 - Personal: <junukcha@gmail.com>
 
-
-## Education
-+ M.S./Ph.D. in Artificial Intelligence, UNIST, South Korea, Mar. 2021 - Feb. 2025
-+ B.S. in Mechanical Engineering, UNIST, South Korea, Mar. 2015 - Feb. 2021
-  - Sergeant, Republic of Korea Army, Honorably Discharged, Jan. 2018 - Sep. 2019
-
 ## Research Interests
 + Computer Vision and deep learning.
 + 3D human body pose estimation, 3D human body mesh reconstruction, 3D motion generation.
@@ -18,26 +12,26 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
 + Text-guided 2D image editing.
 + Audio-driven talking head synthesis.
 
-## Work Experience
-<img
-  src="/media/images/internships/inria.png" alt="adobe" width="25%"
-/>
-Research Intern at Inria, Nice, France (Sep. 2024 - Nov. 2024)
-
-EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis (arxiv 2025)
-
-Collaborators: Seongro Yoon, Valeriya Strizhkova, Francois Bremond
-
-<img
-  src="/media/images/internships/adobe.png" alt="adobe" width="25%"
-/>
-Research Scientist/Engineer Intern at Adobe, San Jose, CA, USA (Feb. 2024 - May 2024)
-
-Text2Relight: Creative Portrait Relighting with Text Guidance (AAAI 2025)
-
-Collaborators: Jae Shin Yoon, Mengwei Ren, He Zhang, Krishna Kumar Singh, Yannick Hold‑Geoffroy, David Seunghyun Yoon, HyunJoon Jung
+## Experiences
++ Post-doc at [KETI](https://www.keti.re.kr/eng/main/main.php), Pangyo, Republic of Korea (Mar. 2025 - present)
+  - Sign Language Fingerspelling Recognition
+  - Coworker: [Han-Mu Park](https://sites.google.com/view/hanmupark)
++ Research Intern at Inria, Nice, France (Sep. 2024 - Nov. 2024)
+  - EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis (arxiv 2025)
+  - Collaborators: [Seongro Yoon](https://scholar.google.com/citations?user=CZohencAAAAJ), [Valeriya Strizhkova](https://scholar.google.com/citations?user=6n5PrUAAAAAJ), [Francois Bremond](https://scholar.google.com/citations?user=h-oGBzsAAAAJ)
++ Research Scientist/Engineer Intern at Adobe, San Jose, CA, USA (Feb. 2024 - May 2024)
+  - Text2Relight: Creative Portrait Relighting with Text Guidance (AAAI 2025)
+  - Collaborators: [Jae Shin Yoon](https://gorokee.github.io/jsyoon/), [Mengwei Ren](https://www.mengweiren.com/), [He Zhang](https://sites.google.com/site/hezhangsprinter/), [Krishna Kumar Singh](https://krsingh.cs.ucdavis.edu/), [Yannick Hold‑Geoffroy](https://yannickhold.com/), [David Seunghyun Yoon](https://david-yoon.github.io/), [HyunJoon Jung](https://scholar.google.com/citations?user=dX3FbO4AAAAJ)
++ M.S./Ph.D. in Artificial Intelligence, UNIST, South Korea, Mar. 2021 - Feb. 2025
++ B.S. in Mechanical Engineering, UNIST, South Korea, Mar. 2015 - Feb. 2021
+  - Sergeant, Republic of Korea Army, Honorably Discharged, Jan. 2018 - Sep. 2019
 
 ## Publication
++ **BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting**\\
+Jeongwan On, Kyeonghwan Gwak, Gunyoung Kang, **Junuk Cha**, Soohyun Hwang, Hyein Hwang, Seungryul Baek.\\
+in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Nashville, USA, 2025.
+\[[Coming soon](.)\]
+
 + **EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis**\\
 **Junuk Cha**, Seongro Yoon, Valeriya Strizhkova, Francois Bremond, Seungryul Baek.\\
 in arXiv 2025.\\
