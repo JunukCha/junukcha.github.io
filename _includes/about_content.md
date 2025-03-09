@@ -15,7 +15,7 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
 ## Experiences
 + Post-doc at [KETI](https://www.keti.re.kr/eng/main/main.php), Pangyo, Republic of Korea (Mar. 2025 - present)
   - Sign Language Fingerspelling Recognition
-  - Coworker: [Han-Mu Park](https://sites.google.com/view/hanmupark)
+  - Supervisor: [Han-Mu Park](https://sites.google.com/view/hanmupark)
 + Research Intern at Inria, Nice, France (Sep. 2024 - Nov. 2024)
   - EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis (arxiv 2025)
   - Collaborators: [Seongro Yoon](https://scholar.google.com/citations?user=CZohencAAAAJ), [Valeriya Strizhkova](https://scholar.google.com/citations?user=6n5PrUAAAAAJ), [Francois Bremond](https://scholar.google.com/citations?user=h-oGBzsAAAAJ)
