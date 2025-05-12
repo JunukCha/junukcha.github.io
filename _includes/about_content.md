@@ -24,7 +24,7 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
   - Collaborators: [Jae Shin Yoon](https://gorokee.github.io/jsyoon/), [Mengwei Ren](https://www.mengweiren.com/), [He Zhang](https://sites.google.com/site/hezhangsprinter/), [Krishna Kumar Singh](https://krsingh.cs.ucdavis.edu/), [Yannick Hold‑Geoffroy](https://yannickhold.com/), [David Seunghyun Yoon](https://david-yoon.github.io/), [HyunJoon Jung](https://scholar.google.com/citations?user=dX3FbO4AAAAJ)
 + M.S./Ph.D. in Artificial Intelligence, UNIST, South Korea, Mar. 2021 - Feb. 2025
 + B.S. in Mechanical Engineering, UNIST, South Korea, Mar. 2015 - Feb. 2021
-  - Sergeant, Republic of Korea Army, Honorably Discharged, Jan. 2018 - Sep. 2019
+  - Sergeant, Republic of Korea Army, Discharged, Jan. 2018 - Sep. 2019
 
 ## Publication
 + **BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting**\\
