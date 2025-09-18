@@ -2,7 +2,7 @@
 My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affiliated with the Artificial Intelligence Graduate School ([AIGS](https://aigs.unist.ac.kr/web/index.php)) at [UNIST](https://www.unist.ac.kr) as part of the [UVL Lab](https://vision.unist.ac.kr), where I am adviced by Prof. [Seungryul Baek](https://sites.google.com/site/bsrvision00/). I obtained my BS (2021) degree from the Dept. of Mechanical Engineering at [UNIST](https://www.unist.ac.kr).
 
 **Email:**  
-- Official: <jucha@unist.ac.kr>  
+- Official: <junukcha@kaist.ac.kr>
 - Personal: <junukcha@gmail.com>
 
 ## Research Interests
@@ -43,7 +43,7 @@ Equal contribution*.\\
 
 + **BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting**\\
 Jeongwan On, Kyeonghwan Gwak, Gunyoung Kang, **Junuk Cha**, Soohyun Hwang, Hyein Hwang, Seungryul Baek.\\
-in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Nashville, USA, 2025.
+in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Nashville, USA, 2025.\\
 \[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/On_BIGS_Bimanual_Category-agnostic_Interaction_Reconstruction_from_Monocular_Videos_via_3D_CVPR_2025_paper.pdf)\]
 \[[Suppl.](https://openaccess.thecvf.com/content/CVPR2025/supplemental/On_BIGS_Bimanual_Category-agnostic_CVPR_2025_supplemental.zip)\]
 <center>
