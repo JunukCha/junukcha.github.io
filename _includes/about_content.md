@@ -13,9 +13,12 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
 + Audio-driven talking head synthesis.
 
 ## Experiences
-+ Post-doc at [KETI](https://www.keti.re.kr/eng/main/main.php), Pangyo, Republic of Korea (Mar. 2025 - present)
++ Post-doc at [KAIST](https://www.kaist.ac.kr/en/), Daejeon, Republic of Korea (Aug. 2025 - Present)
+  - Human motion generation & Embodied AI
+  - PI: [Tae-Hyun Oh](https://ami.kaist.ac.kr/)
++ Post-doc at [KETI](https://www.keti.re.kr/eng/main/main.php), Pangyo, Republic of Korea (Mar. 2025 - July 2025)
   - Sign Language Fingerspelling Recognition
-  - Supervisor: [Han-Mu Park](https://sites.google.com/view/hanmupark)
+  - PI: [Han-Mu Park](https://sites.google.com/view/hanmupark)
 + Research Intern at Inria, Nice, France (Sep. 2024 - Nov. 2024)
   - EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis (arxiv 2025)
   - Collaborators: [Seongro Yoon](https://scholar.google.com/citations?user=CZohencAAAAJ), [Valeriya Strizhkova](https://scholar.google.com/citations?user=6n5PrUAAAAAJ), [Francois Bremond](https://scholar.google.com/citations?user=h-oGBzsAAAAJ)
@@ -27,10 +30,27 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
   - Sergeant, Republic of Korea Army, Discharged, Jan. 2018 - Sep. 2019
 
 ## Publication
++ **CoT-Pose: Chain-of-Thought Reasoning for 3D Pose Generation from Abstract Prompts**\\
+**Junuk Cha\***, Jihyeon Kim\*.\\
+in Proc. of IEEE Conf. on International Conference on Computer Vision (**ICCV**) workshop, Honolulu, USA, 2025.\\
+Equal contribution*.\\
+\[[Paper (arxiv)](https://arxiv.org/pdf/2508.07540)\]
+<center>
+  <img
+    src="/media/images/publications/CoTPose.png" alt="CoT-Pose: Chain-of-Thought Reasoning for 3D Pose Generation from Abstract Prompts" width="50%"
+  />
+</center>
+
 + **BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting**\\
 Jeongwan On, Kyeonghwan Gwak, Gunyoung Kang, **Junuk Cha**, Soohyun Hwang, Hyein Hwang, Seungryul Baek.\\
 in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Nashville, USA, 2025.
-\[[Coming soon](.)\]
+\[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/On_BIGS_Bimanual_Category-agnostic_Interaction_Reconstruction_from_Monocular_Videos_via_3D_CVPR_2025_paper.pdf)\]
+\[[Suppl.](https://openaccess.thecvf.com/content/CVPR2025/supplemental/On_BIGS_Bimanual_Category-agnostic_CVPR_2025_supplemental.zip)\]
+<center>
+  <img
+    src="/media/images/publications/BIGS.png" alt="BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting" width="50%"
+  />
+</center>
 
 + **EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis**\\
 **Junuk Cha**, Seongro Yoon, Valeriya Strizhkova, Francois Bremond, Seungryul Baek.\\
