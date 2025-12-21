@@ -35,6 +35,7 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
 in Proc. of IEEE Conf. on International Conference on Computer Vision (**ICCV**) workshop, Honolulu, USA, 2025.\\
 Equal contribution*.\\
 \[[Paper (arxiv)](https://arxiv.org/pdf/2508.07540)\]
+\[[Code](https://github.com/JunukCha/cot-pose)\]
 <center>
   <img
     src="/media/images/publications/CoTPose.png" alt="CoT-Pose: Chain-of-Thought Reasoning for 3D Pose Generation from Abstract Prompts" width="50%"
