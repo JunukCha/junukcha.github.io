@@ -201,7 +201,7 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 + Program Committee (Reviewer) at ICLR 2025, 2026.
 + Program Committee (Reviewer) at AAAI 2023, 2024, 2025, 2026.
 + Program Committee (Reviewer) at NIPS 2024.
-+ Program Committee (Reviewer) at BMVC 2023, 2024.
++ Program Committee (Reviewer) at BMVC 2023, 2024, 2025.
 
 ## Patents
 + Dangerous Region Approaching Worker Detection and Stopping Machine Device Based on Thermal Images, 2023. Applicant : UNIST and Hyundai
