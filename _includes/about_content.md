@@ -197,6 +197,7 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 
 ## Academic Activities
 + Program Committee (Reviewer) at CVPR 2025, 2026.
++ Program Committee (Reviewer) at ICCV 2025.
 + Program Committee (Reviewer) at ICLR 2025, 2026.
 + Program Committee (Reviewer) at AAAI 2023, 2024, 2025, 2026.
 + Program Committee (Reviewer) at NIPS 2024.
