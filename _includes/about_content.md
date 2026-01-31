@@ -7,8 +7,8 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
 
 ## Research Interests
 + Computer Vision and deep learning.
-+ 3D human body pose estimation, 3D human body mesh reconstruction, 3D motion generation.
-+ Action recognition and clothed human mesh reconstruction.
++ 3D human (Recognition, reconstruction and generation)
++ AI for Robotics
 + Text-guided 2D image editing.
 + Audio-driven talking head synthesis.
 
