@@ -13,11 +13,11 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
 + Audio-driven talking head synthesis.
 
 ## Experiences
-+ Post-doc at [KAIST](https://www.kaist.ac.kr/en/), Daejeon, Republic of Korea (Aug. 2025 - Present)
-  - Human motion generation & Embodied AI
++ Postdoc at [AMI Lab](https://ami.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/en/), Daejeon, Republic of Korea (Aug. 2025 - Present)
+  - Humanoid Motion Generation & Robot Pose Estimation (Under review at CVPR 2026)
   - PI: [Tae-Hyun Oh](https://ami.kaist.ac.kr/)
-+ Post-doc at [KETI](https://www.keti.re.kr/eng/main/main.php), Pangyo, Republic of Korea (Mar. 2025 - July 2025)
-  - Sign Language Fingerspelling Recognition
++ Postdoc at [KETI](https://www.keti.re.kr/eng/main/main.php), Pangyo, Republic of Korea (Mar. 2025 - July 2025)
+  - Sign Language Fingerspelling Recognition (Under review at CVPR 2026)
   - PI: [Han-Mu Park](https://sites.google.com/view/hanmupark)
 + Research Intern at Inria, Nice, France (Sep. 2024 - Nov. 2024)
   - EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis (arxiv 2025)
@@ -226,7 +226,7 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 ## Teaching Assistant & Mentoring
 + Mentoring 
     - 2nd Ulju AI 4.0 Studio at UNIST, Ulsan, South Korea, Mar. 2022 ~ Nov. 2022.
-
+    - Mentored [Kyeongmin Kim](https://kkm0476.github.io/) on non-line-of-sight perception task at [AMI Lab](Kyeongmin Kim), KAIST, Daejeon, South Korea, Dec. 2025 -- Present.
 + TA 
     - Navy AI professionals training process TA, Jinhae, South Korea, 12 Sep. 2023.
     - 5th AI Novatus Academia PBL (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea,  Mar. 2023 ~ Jun.2023.
