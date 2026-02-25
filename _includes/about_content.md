@@ -67,7 +67,7 @@ in arXiv 2025.\\
 **Junuk Cha**, Mengwei Ren, Krishna Kumar Singh, He Zhang, Yannick Hold-Geoffroy, Seunghyun Yoon, HyunJoon Jung, Jae Shin Yoon\*, Seungryul Baek.\*\\
 in Proc. of Association for the Advancement of Artificial Intelligence (**AAAI**), Philadelphia, USA, 2025.\\
 Co-last authors*.\\
-\[[Paper (arxiv)](https://arxiv.org/pdf/2412.13734)\]
+\[[Paper (arxiv)](https://arxiv.org/pdf/2412.13734)\]\[[Project](https://junukcha.github.io/project/text2relight/)\]
 <center>
   <img
     src="/media/images/publications/AAAI2025.png" alt="Text2Relight: Creative Portrait Relighting with Text Guidance" width="50%"
