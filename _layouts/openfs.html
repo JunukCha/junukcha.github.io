@@ -189,7 +189,9 @@
   <section class="hero teaser">
     <div class="container is-max-desktop">
       <div class="hero-body">
-        <img src="/media/projects/openfs/motivation.png" alt="Motivate" />
+        <img src="/media/projects/openfs/motivation.png"
+              alt="Motivate"
+              style="display:block; margin:0 auto;" />
         <p>
           <b>Motivation for multi-hand-capable fingerspelling recognition.Motivation for multi-hand-capable fingerspelling recognition.</b> The input consists of the hand pose sequence extracted from the video in which the word <i>"nad"</i> is fingerspelled using the <i>right hand</i>. Existing methods rely on explicit signing-hand detection. However, they misidentify the signing hand when the non-signing hand exhibits large motion changes, which subsequently causes recognition failures. In contrast, our multi-hand-capable fingerspelling recognizer implicitly detects the signing hand from the multi-hand pose sequence to infer the target word. As evidence, the cross-attention map presents high attention values on the frames of the <i>right hand</i> when predicting the word <i>"nad"</i>.
         </p>
@@ -222,31 +224,31 @@
         <div class="column is-four-fifths">
           <h2 class="title is-3">Recognizer</h2>
           <div class="content has-text-justified">
+            <img src="/media/projects/openfs/recognizer.png" alt="framework" >
             <p>
               <b>Overview of the multi-hand-capable fingerspelling recognizer.</b> The hand pose sequence is embedded into a feature space and encoded using our proposed dual-level positional encoding, which consists of hand-identity encoding (<i>&tau;</i>) and temporal positional encoding (<i>&eta;</i>). The recognizer's decoder then predicts the next letter token based on the pose-aware, semantically rich encoder features. <i>&psi;</i> denotes the standard positional encoding, and <i>W<sub>i</sub></i> represents the i-th letter of the word. &lt;start&gt; and &lt;end&gt; are special tokens indicating the start and end of the letter token sequence, respectively.
             </p>
-            <img src="/media/projects/openfs/recognizer.png" alt="framework" >
           </div>
           <h2 class="title is-3">Proposed Losses</h2>
           <div class="content has-text-justified">
+            <img src="/media/projects/openfs/losses.png" alt="framework" >
             <p>
               <b>Overview of the signing-hand (SF) and monotonic alignment (MA) losses.</b> (a) The signing-hand focus (SF) loss <i>&#119995;<sub>SF</sub></i> measures the entropy of the hand-wise attention distribution derived from the cross-attention map between input hand pose tokens and output letter tokens. Minimizing this entropy encourages the recognizer to focus on the single signing hand. (b) The monotonic alignment (MA) loss <i>&#119995;<sub>MA</sub></i> penalizes misalignments that violate the natural temporal order between input hand pose tokens and output letter tokens in fingerspelling. Reducing these violations encourages the model to interpret the hand pose tokens in a temporally coherent manner to predict the letter token.
             </p>
-            <img src="/media/projects/openfs/losses.png" alt="framework" >
           </div>
           <h2 class="title is-3">Annotation Method</h2>
           <div class="content has-text-justified">
+            <img src="/media/projects/openfs/annotation_method.png" alt="framework" >
             <p>
               <b>Overview of the coarse-to-fine frame-wise letter annotation method.</b> (a) We utilize the cross-attention map between input hand pose tokens and output letter tokens to generate coarse frame-wise letter annotations, where <i>&phi;</i> denotes a non-letter annotation. (b) To refine the coarse frame-wise letter annotations, we freeze the pre-trained recognizer and train a frame-wise annotation refiner supervised by the coarse annotations. (c) The trained refiner produces refined frame-wise letter annotations; the coarse and refined annotations are compared with the corresponding image frames, where each label–frame pair is linked with arrows and mismatched cases are highlighted in red.
             </p>
-            <img src="/media/projects/openfs/annotation_method.png" alt="framework" >
           </div>
           <h2 class="title is-3">Generator</h2>
           <div class="content has-text-justified">
-            <p>
-              <b>Overview of the frame-wise letter-conditioned generator.</b> <i>W<sub>i</sub></i> is the i-th letter of the word, <i>|W|</i> is the word length, ⊗ denotes concatenation, and <i>&psi;</i> denotes the standard positional encoding. The generator embeds each letter token and each noised pose vector through their respective embedding layers. The resulting letter and pose embeddings are concatenated frame-wise and, given a diffusion timestep, are denoised by the generator encoder to produce a clean hand-pose sequence.
-            </p>
             <img src="/media/projects/openfs/generator.png" alt="framework" >
+            <p>
+              <b>Overview of the frame-wise letter-conditioned generator.</b> <i>W<sub>i</sub></i> is the i-th letter of the word, |<i>W</i>| is the word length, ⊗ denotes concatenation, and <i>&psi;</i> denotes the standard positional encoding. The generator embeds each letter token and each noised pose vector through their respective embedding layers. The resulting letter and pose embeddings are concatenated frame-wise and, given a diffusion timestep, are denoised by the generator encoder to produce a clean hand-pose sequence.
+            </p>
           </div>
         </div>
       </div>
