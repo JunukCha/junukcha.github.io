@@ -30,6 +30,19 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
   - Sergeant, Republic of Korea Army, Discharged, Jan. 2018 - Sep. 2019
 
 ## Publication
++ **OpenFS: Multi-Hand-Capable Fingerspelling Recognition with Implicit Signing-Hand Detection and Frame-Wise Letter-Conditioned Synthesis**\\
+**Junuk Cha**, Jihyeon Kim, Han-Mu Park.\\
+in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Denver, USA, 2025.\\
+Equal contribution*.\\
+\[[Paper (arxiv)](https://arxiv.org/pdf/2602.22949)\]
+\[[Code](https://github.com/AIRC-KETI/OpenFS)\]
+\[[Project](https://junukcha.github.io/project/openfs/)\]
+<center>
+  <img
+    src="/media/images/publications/OpenFS.png" alt="OpenFS: Multi-Hand-Capable Fingerspelling Recognition with Implicit Signing-Hand Detection and Frame-Wise Letter-Conditioned Synthesis" width="50%"
+  />
+</center>
+
 + **CoT-Pose: Chain-of-Thought Reasoning for 3D Pose Generation from Abstract Prompts**\\
 **Junuk Cha\***, Jihyeon Kim\*.\\
 in Proc. of IEEE Conf. on International Conference on Computer Vision (**ICCV**) workshop, Honolulu, USA, 2025.\\
