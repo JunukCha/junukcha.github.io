@@ -190,7 +190,7 @@
     <div class="container is-max-desktop">
       <div class="hero-body">
         <center>
-          <img src="/media/projects/openfs/motivation.png"/>
+          <img src="/media/projects/openfs/motivation.png" style="width:80%;"/>
         </center>
         <p>
           <b>Motivation for multi-hand-capable fingerspelling recognition.Motivation for multi-hand-capable fingerspelling recognition.</b> The input consists of the hand pose sequence extracted from the video in which the word <i>"nad"</i> is fingerspelled using the <i>right hand</i>. Existing methods rely on explicit signing-hand detection. However, they misidentify the signing hand when the non-signing hand exhibits large motion changes, which subsequently causes recognition failures. In contrast, our multi-hand-capable fingerspelling recognizer implicitly detects the signing hand from the multi-hand pose sequence to infer the target word. As evidence, the cross-attention map presents high attention values on the frames of the <i>right hand</i> when predicting the word <i>"nad"</i>.
@@ -232,7 +232,6 @@
           <h2 class="title is-3">Proposed Losses</h2>
           <div class="content has-text-justified">
             <img src="/media/projects/openfs/losses.png" alt="framework" >
-            <img src="/media/projects/openfs/losses2.png" alt="framework" >
             <p>
               <b>Overview of the signing-hand (SF) and monotonic alignment (MA) losses.</b> (a) The signing-hand focus (SF) loss <i>&#119995;<sub>SF</sub></i> measures the entropy of the hand-wise attention distribution derived from the cross-attention map between input hand pose tokens and output letter tokens. Minimizing this entropy encourages the recognizer to focus on the single signing hand. (b) The monotonic alignment (MA) loss <i>&#119995;<sub>MA</sub></i> penalizes misalignments that violate the natural temporal order between input hand pose tokens and output letter tokens in fingerspelling. Reducing these violations encourages the model to interpret the hand pose tokens in a temporally coherent manner to predict the letter token.
             </p>
