@@ -174,7 +174,7 @@ in IEEE Access 2022 (IF: 3.367).\\
 
 + **3DMesh-GAR: 3D human body mesh-based method for group activity recognition**\\
 Muhammad Saqlain, Donguk Kim, **Junuk Cha**, Changhwa Lee, Seongyeong Lee, Seungryul Baek.\\
-in Sensors 2022 (IF:3.576).\\
+in Sensors 2022 (IF:3.9).\\
 \[[PDF](https://www.mdpi.com/1424-8220/22/4/1464)\]
 <center>
   <img
