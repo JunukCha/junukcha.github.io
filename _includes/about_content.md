@@ -14,10 +14,10 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
 
 ## Experiences
 + Postdoc at [AMI Lab](https://ami.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/en/), Daejeon, Republic of Korea (Aug. 2025 - Present)
-  - Humanoid Motion Generation & Robot Pose Estimation (Under review at CVPR 2026)
-  - PI: [Tae-Hyun Oh](https://ami.kaist.ac.kr/)
+  - Vision-Guided Humanoid Motion Generation & Robot Pose Estimation (Under review)
+  - PI: [Tae-Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh)
 + Postdoc at [KETI](https://www.keti.re.kr/eng/main/main.php), Pangyo, Republic of Korea (Mar. 2025 - July 2025)
-  - Sign Language Fingerspelling Recognition (Under review at CVPR 2026)
+  - OpenFS: Multi-Hand-Capable Fingerspelling Recognition with Implicit Signing-Hand Detection and Frame-Wise Letter-Conditioned Synthesis (CVPR 2026)
   - PI: [Han-Mu Park](https://sites.google.com/view/hanmupark)
 + Research Intern at Inria, Nice, France (Sep. 2024 - Nov. 2024)
   - EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis (arxiv 2025)
