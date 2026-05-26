@@ -246,6 +246,7 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
     - 5th AI Novatus Academia PBL (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea,  Mar. 2023 ~ Jun.2023.
     - 1st Gyungnam AI Novatus Academia (Computer Vision part) at UNIST AI Innovation Park, Masan, South Korea, 15 Apr. 2022.
     - 3rd AI Novatus Academia (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, 25 Feb. 2022.
+
 + Lecture TA 
     - 2023 Fall AI51601 Computer Vision.
     - 2021 Fall ITP11701 Introduction to AI Programming 2.
