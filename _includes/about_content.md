@@ -12,7 +12,7 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
 
 ## Experiences
 + Postdoc at [AMI Lab](https://ami.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/en/), Daejeon, Republic of Korea (Aug. 2025 - Present)
-  - Egocentric Humanoid Control (Perception & Planning), Multiple human-object interaction, Robot Pose Estimation, Non-line-of-sight
+  - Egocentric Humanoid Control (Perception and Planning), Multiple human-object interaction, Robot Pose Estimation, Non-line-of-sight
   - PI: [Tae-Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh)
 + Postdoc at [KETI](https://www.keti.re.kr/eng/main/main.php), Pangyo, Republic of Korea (Mar. 2025 - July 2025)
   - OpenFS: Multi-Hand-Capable Fingerspelling Recognition with Implicit Signing-Hand Detection and Frame-Wise Letter-Conditioned Synthesis (CVPR 2026)
