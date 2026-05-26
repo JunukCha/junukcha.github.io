@@ -7,14 +7,12 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
 
 ## Research Interests
 + Computer Vision and deep learning.
-+ 3D human (Recognition, reconstruction and generation)
++ Human-centric AI (Rconstruction, generation and recognition)
 + AI for Robotics
-+ Text-guided 2D image editing.
-+ Audio-driven talking head synthesis.
 
 ## Experiences
 + Postdoc at [AMI Lab](https://ami.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/en/), Daejeon, Republic of Korea (Aug. 2025 - Present)
-  - Vision-Guided Humanoid Motion Generation & Robot Pose Estimation (Under review)
+  - Egocentric Humanoid Control (Perception & Planning), Multiple human-object interaction, Robot Pose Estimation, Non-line-of-sight
   - PI: [Tae-Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh)
 + Postdoc at [KETI](https://www.keti.re.kr/eng/main/main.php), Pangyo, Republic of Korea (Mar. 2025 - July 2025)
   - OpenFS: Multi-Hand-Capable Fingerspelling Recognition with Implicit Signing-Hand Detection and Frame-Wise Letter-Conditioned Synthesis (CVPR 2026)
@@ -211,13 +209,16 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 ## Academic Activities
 + Program Committee (Reviewer) at CVPR 2025, 2026.
 + Program Committee (Reviewer) at ICCV 2025.
++ Program Committee (Reviewer) at ECCV 2026.
 + Program Committee (Reviewer) at ICLR 2025, 2026.
 + Program Committee (Reviewer) at AAAI 2023, 2024, 2025, 2026.
 + Program Committee (Reviewer) at NIPS 2024.
 + Program Committee (Reviewer) at BMVC 2023, 2024, 2025.
 
 ## Patents
-+ Dangerous Region Approaching Worker Detection and Stopping Machine Device Based on Thermal Images, 2023. Applicant : UNIST and Hyundai
++ Image-Based Three-Dimensional Mesh Reconstruction Method and System Therefor, 2024. Applicant : CJ Olive Networks and UNIST
++ Method for Reconstructing in Three Dimensions Interactions Among Multiple Objects Represented in a Two-Dimensional Image, 2024. Applicant : UNIST
++ Artificial Intelligence-Based Apparatus and Method for Detecting Workers Using Thermal Images, 2023. Applicant : Hyundai and UNIST
 
 ## Projects
 + Development of vision recognition module for ARTG control, Ministry of Oceans and Fisheries, Jun. 2023 ~ Dec. 2023
@@ -245,7 +246,6 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
     - 5th AI Novatus Academia PBL (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea,  Mar. 2023 ~ Jun.2023.
     - 1st Gyungnam AI Novatus Academia (Computer Vision part) at UNIST AI Innovation Park, Masan, South Korea, 15 Apr. 2022.
     - 3rd AI Novatus Academia (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, 25 Feb. 2022.
-
 + Lecture TA 
     - 2023 Fall AI51601 Computer Vision.
     - 2021 Fall ITP11701 Introduction to AI Programming 2.
