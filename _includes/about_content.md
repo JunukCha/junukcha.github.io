@@ -207,7 +207,7 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 \[[Certificate](https://drive.google.com/file/d/11qTv8Lnp6QOXnseoUglQ5UvIV4sL1N1e/view?usp=sharing)\]
 
 ## Academic Activities
-+ [Outstanding reviewer at CVPR 2026](https://x.com/CVPR/status/2056432742208876945/photo/3).
++ [Outstanding Reviewer at CVPR 2026](https://x.com/CVPR/status/2056432742208876945/photo/3).
 + Program Committee (Reviewer) at CVPR 2025, 2026.
 + Program Committee (Reviewer) at ICCV 2025.
 + Program Committee (Reviewer) at ECCV 2026.
