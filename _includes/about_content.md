@@ -207,6 +207,7 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 \[[Certificate](https://drive.google.com/file/d/11qTv8Lnp6QOXnseoUglQ5UvIV4sL1N1e/view?usp=sharing)\]
 
 ## Academic Activities
++ [Outstanding reviewer at CVPR 2026](https://x.com/CVPR/status/2056432742208876945/photo/3).
 + Program Committee (Reviewer) at CVPR 2025, 2026.
 + Program Committee (Reviewer) at ICCV 2025.
 + Program Committee (Reviewer) at ECCV 2026.
@@ -216,9 +217,15 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 + Program Committee (Reviewer) at BMVC 2023, 2024, 2025.
 
 ## Patents
-+ Image-Based Three-Dimensional Mesh Reconstruction Method and System Therefor, 2024. Applicant : CJ Olive Networks and UNIST
-+ Method for Reconstructing in Three Dimensions Interactions Among Multiple Objects Represented in a Two-Dimensional Image, 2024. Applicant : UNIST
-+ Artificial Intelligence-Based Apparatus and Method for Detecting Workers Using Thermal Images, 2023. Applicant : Hyundai and UNIST
++ Image-Based Three-Dimensional Mesh Reconstruction Method and System Therefor, 2024.
+  Applicant : CJ Olive Networks and UNIST
+  DOI: https://doi.org/10.8080/1020240169695
++ Method for Reconstructing in Three Dimensions Interactions Among Multiple Objects Represented in a Two-Dimensional Image, 2024.
+  Applicant : UNIST
+  DOI: https://doi.org/10.8080/1020240050701
++ Artificial Intelligence-Based Apparatus and Method for Detecting Workers Using Thermal Images, 2023.
+  Applicant : Hyundai and UNIST
+  DOI: https://doi.org/10.8080/1020230100243
 
 ## Projects
 + Development of vision recognition module for ARTG control, Ministry of Oceans and Fisheries, Jun. 2023 ~ Dec. 2023
