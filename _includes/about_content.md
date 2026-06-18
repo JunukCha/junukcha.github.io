@@ -58,6 +58,7 @@ Jeongwan On, Kyeonghwan Gwak, Gunyoung Kang, **Junuk Cha**, Soohyun Hwang, Hyein
 in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Nashville, USA, 2025.\\
 \[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/On_BIGS_Bimanual_Category-agnostic_Interaction_Reconstruction_from_Monocular_Videos_via_3D_CVPR_2025_paper.pdf)\]
 \[[Suppl.](https://openaccess.thecvf.com/content/CVPR2025/supplemental/On_BIGS_Bimanual_Category-agnostic_CVPR_2025_supplemental.zip)\]
+\[[Code](https://github.com/On-JungWoan/BIGS)\]
 <center>
   <img
     src="/media/images/publications/BIGS.png" alt="BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting" width="50%"
