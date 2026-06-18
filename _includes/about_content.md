@@ -200,6 +200,10 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 + Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, **Junuk Cha**, Hansol Lee, Yunseong Cho, Seungryul Baek, **3D simulation via hand pose estimation and model simplification**, 2021년도 대한전기학회 하계학술대회 논문집 (2021.7.15~17). -->
 
 ## Awards
++ Industry-Academia Best Paper Award, LG Electronics, 2026 Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), Jeju, Korea, 2026.\\
+  산업체 관심논문상(LG전자), 2026년도 대한전자공학회 하계종합학술대회, 제주, 2026.\\
+  Certificate
+
 + The 8th Workshop on Observing and Understanding Hands in conjunction with **ECCV 2024**, **1st place in HANDS workshop challenge**\\
 \[[Certificate](https://drive.google.com/file/d/1kAOOB1z7xaObAXAKhM140WHIEDOdK6a8/view?usp=sharing)\]
 
@@ -217,15 +221,18 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 + Program Committee (Reviewer) at BMVC 2023, 2024, 2025.
 
 ## Patents
-+ Image-Based Three-Dimensional Mesh Reconstruction Method and System Therefor, 2024.
-  Applicant : CJ Olive Networks and UNIST
-  DOI: https://doi.org/10.8080/1020240169695
-+ Method for Reconstructing in Three Dimensions Interactions Among Multiple Objects Represented in a Two-Dimensional Image, 2024.
-  Applicant : UNIST
-  DOI: https://doi.org/10.8080/1020240050701
-+ Artificial Intelligence-Based Apparatus and Method for Detecting Workers Using Thermal Images, 2023.
-  Applicant : Hyundai and UNIST
-  DOI: https://doi.org/10.8080/1020230100243
++ Video-based 3D mesh restoration method and system therefor, 2024.\\
+  영상 기반의 3차원 메쉬 복원 방법 및 이를 위한 시스템\\
+  Applicant : CJ Olive Networks and UNIST\\
+  DOI: [10.8080/1020240169695](https://doi.org/10.8080/1020240169695)
++ Method for restoring interaction of multiple objects expressed in a 2D image to 3D, 2024.\\
+  2차원 이미지에 표현된 복수 객체의 상호작용을 3차원으로 복원하는 방법\\
+  Applicant : UNIST\\
+  DOI: [10.8080/1020240050701](https://doi.org/10.8080/1020240050701)
++ Artificial intelligence based worker detection device and method using thermal imaging, 2023.\\
+  열화상 영상을 이용한 인공지능 기반 작업자 검출 장치 및 방법\\
+  Applicant : Hyundai and UNIST\\
+  DOI: [10.8080/1020230100243](https://doi.org/10.8080/1020230100243)
 
 ## Projects
 + Development of vision recognition module for ARTG control, Ministry of Oceans and Fisheries, Jun. 2023 ~ Dec. 2023
