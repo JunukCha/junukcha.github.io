@@ -30,7 +30,7 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
 ## Publication
 + **OpenFS: Multi-Hand-Capable Fingerspelling Recognition with Implicit Signing-Hand Detection and Frame-Wise Letter-Conditioned Synthesis**\\
 **Junuk Cha**, Jihyeon Kim, Han-Mu Park.\\
-in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Denver, USA, 2025.\\
+in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Denver, USA, 2026.\\
 Equal contribution*.\\
 \[[Paper (arxiv)](https://arxiv.org/pdf/2602.22949)\]
 \[[Code](https://github.com/AIRC-KETI/OpenFS)\]
