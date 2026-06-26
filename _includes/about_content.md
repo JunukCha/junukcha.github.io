@@ -203,7 +203,7 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 ## Awards
 + Industry-Academia Best Paper Award, LG Electronics, 2026 Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), Jeju, Korea, 2026.\\
   산업체 관심논문상(LG전자), 2026년도 대한전자공학회 하계종합학술대회, 제주, 2026.\\
-  Certificate
+  \[[Certificate](https://drive.google.com/file/d/1NZOdcqavhw8qxQ2yiE8OOVTgDBsHk-a1/view?usp=drive_link)\]
 
 + The 8th Workshop on Observing and Understanding Hands in conjunction with **ECCV 2024**, **1st place in HANDS workshop challenge**\\
 \[[Certificate](https://drive.google.com/file/d/1kAOOB1z7xaObAXAKhM140WHIEDOdK6a8/view?usp=sharing)\]
