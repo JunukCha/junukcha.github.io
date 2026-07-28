@@ -15,19 +15,20 @@ My name is **Junuk Cha**, and I graduated from the combined MS/PhD program affil
   - Egocentric Humanoid Control (Perception and Planning), Multiple human-object interaction, Robot Pose Estimation, Non-line-of-sight
   - PI: [Tae-Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh)
 + Postdoc at [KETI](https://www.keti.re.kr/eng/main/main.php), Pangyo, Republic of Korea (Mar. 2025 - July 2025)
-  - OpenFS: Multi-Hand-Capable Fingerspelling Recognition with Implicit Signing-Hand Detection and Frame-Wise Letter-Conditioned Synthesis (CVPR 2026)
+  - [OpenFS: Multi-Hand-Capable Fingerspelling Recognition with Implicit Signing-Hand Detection and Frame-Wise Letter-Conditioned Synthesis](#openfs) (CVPR 2026)
   - PI: [Han-Mu Park](https://sites.google.com/view/hanmupark)
 + Research Intern at Inria, Nice, France (Sep. 2024 - Nov. 2024)
-  - EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis (arxiv 2025)
+  - [EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis](#emotalkinggaussian) (arxiv 2025)
   - Collaborators: [Seongro Yoon](https://scholar.google.com/citations?user=CZohencAAAAJ), [Valeriya Strizhkova](https://scholar.google.com/citations?user=6n5PrUAAAAAJ), [Francois Bremond](https://scholar.google.com/citations?user=h-oGBzsAAAAJ)
 + Research Scientist/Engineer Intern at Adobe, San Jose, CA, USA (Feb. 2024 - May 2024)
-  - Text2Relight: Creative Portrait Relighting with Text Guidance (AAAI 2025)
+  - [Text2Relight: Creative Portrait Relighting with Text Guidance](#text2relight) (AAAI 2025)
   - Collaborators: [Jae Shin Yoon](https://gorokee.github.io/jsyoon/), [Mengwei Ren](https://www.mengweiren.com/), [He Zhang](https://sites.google.com/site/hezhangsprinter/), [Krishna Kumar Singh](https://krsingh.cs.ucdavis.edu/), [Yannick Hold‑Geoffroy](https://yannickhold.com/), [David Seunghyun Yoon](https://david-yoon.github.io/), [HyunJoon Jung](https://scholar.google.com/citations?user=dX3FbO4AAAAJ)
 + M.S./Ph.D. in Artificial Intelligence, UNIST, South Korea, Mar. 2021 - Feb. 2025
 + B.S. in Mechanical Engineering, UNIST, South Korea, Mar. 2015 - Feb. 2021
   - Sergeant, Republic of Korea Army, Discharged, Jan. 2018 - Sep. 2019
 
 ## Publication
+<span id="openfs"></span>
 + **OpenFS: Multi-Hand-Capable Fingerspelling Recognition with Implicit Signing-Hand Detection and Frame-Wise Letter-Conditioned Synthesis**\\
 **Junuk Cha**, Jihyeon Kim, Han-Mu Park.\\
 in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Denver, USA, 2026.\\
@@ -65,6 +66,7 @@ in Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), Na
   />
 </center>
 
+<span id="emotalkinggaussian"></span>
 + **EmoTalkingGaussian: Continuous Emotion‑conditioned Talking Head Synthesis**\\
 **Junuk Cha**, Seongro Yoon, Valeriya Strizhkova, Francois Bremond, Seungryul Baek.\\
 in arXiv 2025.\\
@@ -75,6 +77,7 @@ in arXiv 2025.\\
   />
 </center>
 
+<span id="text2relight"></span>
 + **Text2Relight: Creative Portrait Relighting with Text Guidance**\\
 **Junuk Cha**, Mengwei Ren, Krishna Kumar Singh, He Zhang, Yannick Hold-Geoffroy, Seunghyun Yoon, HyunJoon Jung, Jae Shin Yoon\*, Seungryul Baek.\*\\
 in Proc. of Association for the Advancement of Artificial Intelligence (**AAAI**), Philadelphia, USA, 2025.\\
