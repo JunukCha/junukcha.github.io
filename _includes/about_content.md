@@ -216,6 +216,9 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 + The 7th Workshop on Observing and Understanding Hands in conjunction with **ICCV 2023**, **3rd place in HANDS workshop challenge**\\
 \[[Certificate](https://drive.google.com/file/d/11qTv8Lnp6QOXnseoUglQ5UvIV4sL1N1e/view?usp=sharing)\]
 
+## Talks
++ **Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement**, CV/ML Session, 2022 Fall Conference of the Korean Artificial Intelligence Association (KAIA), Hall #4, Nov. 18, 2022.
+
 ## Academic Activities
 + [Outstanding Reviewer at CVPR 2026](https://x.com/CVPR/status/2056432742208876945/photo/3).
 + Program Committee (Reviewer) at CVPR 2025, 2026.
