@@ -203,32 +203,6 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 
 + Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, **Junuk Cha**, Hansol Lee, Yunseong Cho, Seungryul Baek, **3D simulation via hand pose estimation and model simplification**, 2021년도 대한전기학회 하계학술대회 논문집 (2021.7.15~17). -->
 
-## Awards
-+ Industry-Academia Best Paper Award, LG Electronics, 2026 Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), Jeju, Korea, 2026.\\
-  Paper title: MotionGlue: A Framework for Natural Transition Generation Between Heterogeneous Human Motions\\
-  산업체 관심논문상(LG전자), 2026년도 대한전자공학회 하계종합학술대회, 제주, 2026.\\
-  논문제목: 서로 다른 휴먼 모션 간 자연스러운 연결을 위한 프레임워크\\
-  \[[Certificate](https://drive.google.com/file/d/1oOmXEDK9tlSfx90Lsl2kp-G_sonGx4qH/view?usp=sharing)\]
-
-+ The 8th Workshop on Observing and Understanding Hands in conjunction with **ECCV 2024**, **1st place in HANDS workshop challenge**\\
-\[[Certificate](https://drive.google.com/file/d/1kAOOB1z7xaObAXAKhM140WHIEDOdK6a8/view?usp=sharing)\]
-
-+ The 7th Workshop on Observing and Understanding Hands in conjunction with **ICCV 2023**, **3rd place in HANDS workshop challenge**\\
-\[[Certificate](https://drive.google.com/file/d/11qTv8Lnp6QOXnseoUglQ5UvIV4sL1N1e/view?usp=sharing)\]
-
-## Talks
-+ **Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement**, CV/ML Session, 2022 Fall Conference of the Korean Artificial Intelligence Association (KAIA), Hall #4, Nov. 18, 2022.
-
-## Academic Activities
-+ [Outstanding Reviewer at CVPR 2026](https://x.com/CVPR/status/2056432742208876945/photo/3).
-+ Program Committee (Reviewer) at CVPR 2025, 2026.
-+ Program Committee (Reviewer) at ICCV 2025.
-+ Program Committee (Reviewer) at ECCV 2026.
-+ Program Committee (Reviewer) at ICLR 2025, 2026.
-+ Program Committee (Reviewer) at AAAI 2023, 2024, 2025, 2026.
-+ Program Committee (Reviewer) at NIPS 2024.
-+ Program Committee (Reviewer) at BMVC 2023, 2024, 2025.
-
 ## Patents
 + Video-based 3D mesh restoration method and system therefor, 2024.\\
   영상 기반의 3차원 메쉬 복원 방법 및 이를 위한 시스템\\
@@ -259,6 +233,32 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 
 <!-- + Development of Control Intention Recognition Technology for Non-contact Long-range Virtual Touch Panels that Block Transmission of Contact Infections at the Source, 접촉감염이 원천 차단되는 비접촉 원거리 가상터치 패널의 제어의도 인식기술 개발, 2021.03~2021.11
     - Estimating hand position from top-view image. -->
+
+## Awards
++ Industry-Academia Best Paper Award, LG Electronics, 2026 Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), Jeju, Korea, 2026.\\
+  Paper title: MotionGlue: A Framework for Natural Transition Generation Between Heterogeneous Human Motions\\
+  산업체 관심논문상(LG전자), 2026년도 대한전자공학회 하계종합학술대회, 제주, 2026.\\
+  논문제목: 서로 다른 휴먼 모션 간 자연스러운 연결을 위한 프레임워크\\
+  \[[Certificate](https://drive.google.com/file/d/1oOmXEDK9tlSfx90Lsl2kp-G_sonGx4qH/view?usp=sharing)\]
+
++ The 8th Workshop on Observing and Understanding Hands in conjunction with **ECCV 2024**, **1st place in HANDS workshop challenge**\\
+\[[Certificate](https://drive.google.com/file/d/1kAOOB1z7xaObAXAKhM140WHIEDOdK6a8/view?usp=sharing)\]
+
++ The 7th Workshop on Observing and Understanding Hands in conjunction with **ICCV 2023**, **3rd place in HANDS workshop challenge**\\
+\[[Certificate](https://drive.google.com/file/d/11qTv8Lnp6QOXnseoUglQ5UvIV4sL1N1e/view?usp=sharing)\]
+
+## Talks
++ **Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement**, CV/ML Session, 2022 Fall Conference of the Korean Artificial Intelligence Association (KAIA), Nov. 18, 2022.
+
+## Academic Activities
++ [Outstanding Reviewer at CVPR 2026](https://x.com/CVPR/status/2056432742208876945/photo/3).
++ Program Committee (Reviewer) at CVPR 2025, 2026.
++ Program Committee (Reviewer) at ICCV 2025.
++ Program Committee (Reviewer) at ECCV 2026.
++ Program Committee (Reviewer) at ICLR 2025, 2026.
++ Program Committee (Reviewer) at AAAI 2023, 2024, 2025, 2026.
++ Program Committee (Reviewer) at NIPS 2024.
++ Program Committee (Reviewer) at BMVC 2023, 2024, 2025.
 
 ## Teaching Assistant & Mentoring
 + Mentoring 
