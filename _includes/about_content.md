@@ -250,7 +250,7 @@ in Journal of Applied Sciences 2021 (IF:2.679).\\
 + **Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement**, CV/ML Session, 2022 Fall Conference of the Korean Artificial Intelligence Association (KAIA), Nov. 18, 2022.
 
 ## Academic Activities
-+ [Outstanding Reviewer at CVPR 2026](https://x.com/CVPR/status/2056432742208876945/photo/3).
++ [Outstanding Reviewer at CVPR 2026](https://x.com/CVPR/status/2056432742208876945/photo/3). \[[Certificate](https://drive.google.com/file/d/1ztuOZ6kPo0hwLZb7WmMnupRar4ZFsQJc/view?usp=sharing)\]
 + Program Committee (Reviewer) at CVPR 2025, 2026.
 + Program Committee (Reviewer) at ICCV 2025.
 + Program Committee (Reviewer) at ECCV 2026.
