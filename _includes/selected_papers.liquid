@@ -1,0 +1,11 @@
+<div class="publications">
+  {% bibliography --group_by none --query @*[selected=true]* %}
+</div>
+<p style="text-align: center; margin: 1.5rem 0 3rem;">
+  <a
+    href="{{ '/publications/' | relative_url }}"
+    style="display: inline-block; padding: 0.55rem 1.4rem; border: 1px solid var(--global-theme-color); border-radius: 999px; color: var(--global-theme-color); font-size: 0.95rem; font-weight: 500; text-decoration: none;"
+  >
+    View all {% bibliography_count %} publications &rarr;
+  </a>
+</p>

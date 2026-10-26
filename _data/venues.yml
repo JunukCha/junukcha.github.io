@@ -1,0 +1,22 @@
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#1f4e9c"
+"CVPRW":
+  color: "#3b6fb6"
+"ICCVW":
+  color: "#2e7d6b"
+"ECCV":
+  url: https://eccv.ecva.net/
+  color: "#6a3d9a"
+"AAAI":
+  url: https://aaai.org/
+  color: "#b2182b"
+"WACV":
+  url: https://wacv.thecvf.com/
+  color: "#d76b00"
+"arXiv":
+  color: "#7a7a7a"
+"Journal":
+  color: "#00796b"
+"Challenge":
+  color: "#8c6d1f"

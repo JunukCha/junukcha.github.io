@@ -1,0 +1,25 @@
+// Uniform thumbnail boxes: every figure is letterboxed into the same 16:10 frame
+// on a white background, so mixed aspect ratios line up.
+
+.publications ol.bibliography li .preview,
+.publications ol.bibliography li img.preview {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: contain;
+  background-color: #fff;
+  padding: 4px;
+}
+
+.projects .card .card-img-top,
+.projects .card img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: contain;
+  background-color: #fff;
+  padding: 6px;
+}
+
+.projects .card .card-title {
+  font-size: 1.4rem;
+}
