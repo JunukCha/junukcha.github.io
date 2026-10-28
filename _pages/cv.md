@@ -11,9 +11,16 @@ nav_order: 4
   <a
     href="{{ '/assets/pdf/CV.pdf' | relative_url }}"
     target="_blank"
-    style="display: inline-block; padding: 0.55rem 1.4rem; border: 1px solid var(--global-theme-color); border-radius: 999px; color: var(--global-theme-color); font-size: 0.95rem; font-weight: 500; text-decoration: none;"
+    style="display: inline-block; margin: 0 0.5rem 0.5rem 0; padding: 0.55rem 1.4rem; border: 1px solid var(--global-theme-color); border-radius: 999px; color: var(--global-theme-color); font-size: 0.95rem; font-weight: 500; text-decoration: none;"
   >
-    <i class="fa-solid fa-file-pdf"></i>&nbsp; Download CV (PDF)
+    <i class="fa-solid fa-file-pdf"></i>&nbsp; View CV (PDF)
+  </a>
+  <a
+    href="{{ '/assets/pdf/CV_kor.pdf' | relative_url }}"
+    target="_blank"
+    style="display: inline-block; margin: 0 0.5rem 0.5rem 0; padding: 0.55rem 1.4rem; border: 1px solid var(--global-theme-color); border-radius: 999px; color: var(--global-theme-color); font-size: 0.95rem; font-weight: 500; text-decoration: none;"
+  >
+    <i class="fa-solid fa-file-pdf"></i>&nbsp; 이력서 보기 (PDF)
   </a>
 </p>
 
