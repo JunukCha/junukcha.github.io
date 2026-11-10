@@ -26,8 +26,7 @@ nav_order: 4
 
 ## Experience
 
-<!-- TODO: official English job title not yet confirmed -->
-**Senior Research Scientist** · Digital Twin R&D, NC AI, Pangyo, Korea <span class="float-right text-muted">Nov. 2026 – Present</span>
+**Senior Researcher** · Digital Twin R&D, NC AI, Pangyo, Korea <span class="float-right text-muted">Nov. 2026 – Present</span>
 
 - Digital Twin research
 

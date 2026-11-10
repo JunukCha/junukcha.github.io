@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Vision & Deep Learning Researcher · <b>Senior Research Scientist at NC AI</b>
+subtitle: Computer Vision & Deep Learning Researcher · <b>Senior Researcher at NC AI</b>
 
 profile:
   align: right
@@ -23,7 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a senior research scientist at **NC AI** (Digital Twin R&D, Pangyo).
+I am a senior researcher at **NC AI** (Digital Twin R&D, Pangyo).
 Previously, I was a postdoctoral researcher at the [AMI Lab](https://ami.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/en/) (Aug. 2025 – Aug. 2026), working with Prof. [Tae-Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh).
 I received my combined M.S./Ph.D. from the Artificial Intelligence Graduate School ([AIGS](https://aigs.unist.ac.kr/web/index.php)) at [UNIST](https://www.unist.ac.kr) in the [UVL Lab](https://vision.unist.ac.kr), advised by Prof. [Seungryul Baek](https://sites.google.com/site/bsrvision00/), and my B.S. in Mechanical Engineering from UNIST in 2021.
 
