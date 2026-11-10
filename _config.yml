@@ -139,6 +139,7 @@ blog_name: Junuk Cha # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
+future: true # include future-dated posts/news
 
 # Pagination
 pagination:

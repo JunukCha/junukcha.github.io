@@ -26,6 +26,11 @@ nav_order: 4
 
 ## Experience
 
+<!-- TODO: official English job title not yet confirmed -->
+**Senior Research Scientist** · Digital Twin R&D, NC AI, Pangyo, Korea <span class="float-right text-muted">Nov. 2026 – Present</span>
+
+- Simulation-based robot AI, robot foundation models
+
 **Postdoctoral Researcher** · [AMI Lab](https://ami.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/en/), Daejeon, Korea <span class="float-right text-muted">Aug. 2025 – Aug. 2026</span>
 
 - Egocentric humanoid control (perception and planning), multiple human-object interaction, robot pose estimation, non-line-of-sight
