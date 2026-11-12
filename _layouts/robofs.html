@@ -184,11 +184,19 @@
           <h3 class="title is-4">RoboFS-Tracker</h3>
           <div class="content has-text-justified">
             <p>
-              The retargeted references are kinematically valid, but replaying them in physics simulation does not reproduce the target motion, since the actuators lag behind the commands and the fingers make contact with one another. RoboFS-Tracker is a single PPO policy that tracks the references in a physics simulation of the Shadow Hand at 30&nbsp;Hz. At each control step it observes the current hand state (positions, orientations and velocities of the robot landmarks), the next-step target with its errors, and look-ahead targets 0.1, 0.2 and 0.33&nbsp;s ahead, and it outputs an 18-dimensional action that commands 14 joints and 4 coupled tendons. The reward combines Gaussian landmark and fingertip tracking terms with two penalties:
+              The retargeted references are kinematically valid, but replaying them in physics simulation does not reproduce the target motion, since the actuators lag behind the commands and the fingers make contact with one another. RoboFS-Tracker is a single PPO policy that tracks the references in a physics simulation of the Shadow Hand at 30&nbsp;Hz. At each control step it observes the current hand state (positions, orientations and velocities of the robot landmarks), the next-step target with its errors, and look-ahead targets 0.1, 0.2 and 0.33&nbsp;s ahead, and it outputs an 18-dimensional action that commands 14 joints and 4 coupled tendons. The reward consists of a tracking term and two penalties:
             </p>
-            $$r_t = r^{\text{track}}_t - w_{\text{pen}}\, r^{\text{pen}}_t - w_{\text{act}}\, r^{\text{act}}_t, \qquad r^{\text{act}}_t = \lVert \mathbf{a}_t - \mathbf{a}_{t-1} \rVert^2,$$
+            $$r_t = r^{\text{track}}_t - w_{\text{pen}}\, r^{\text{pen}}_t - w_{\text{act}}\, r^{\text{act}}_t .$$
             <p>
-              where the self-penetration penalty \(r^{\text{pen}}_t\) sums the contact depths between fingers reported by the simulator beyond a tolerance, and the action-rate penalty discourages abrupt changes between consecutive actions. Conditioning on the references lets one policy execute variable-length clips for any word.
+              The tracking term applies Gaussian kernels to the landmark and fingertip errors,
+            </p>
+            $$r^{\text{track}}_t = w_{\text{lm}} \exp\!\big( -e_{\text{lm},t}^2 / \sigma_{\text{lm}}^2 \big) + w_{\text{tip}} \exp\!\big( -e_{\text{tip},t}^2 / \sigma_{\text{tip}}^2 \big),$$
+            <p>
+              where \(e_{\text{lm},t}^2\) and \(e_{\text{tip},t}^2\) are the mean squared distances between the executed landmarks and the next-step target over the 20 non-wrist landmarks and over the 5 fingertips. The self-penetration penalty and the action-rate penalty are
+            </p>
+            $$r^{\text{pen}}_t = \sum_{c} \Big( \frac{\max(0,\, d_{c,t} - \delta)}{\kappa} \Big)^2, \qquad r^{\text{act}}_t = \lVert \mathbf{a}_t - \mathbf{a}_{t-1} \rVert^2,$$
+            <p>
+              where \(d_{c,t}\) is the depth of a contact \(c\) between fingers reported by the simulator, \(\delta\) is the contact-depth tolerance and \(\kappa\) is a normalization scale. The penetration penalty reduces finger penetration, and the action-rate penalty discourages abrupt changes between consecutive actions. Conditioning on the references lets one policy execute variable-length clips for any word.
             </p>
           </div>
 
