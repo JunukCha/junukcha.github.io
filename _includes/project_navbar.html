@@ -1,6 +1,12 @@
 <!-- Navbar shared by the project pages: home link and the other project pages -->
 {%- assign project_pages = "RoboFS|/project/robofs/,OpenFS|/project/openfs/,Text2Relight|/project/text2relight/,Text2HOI|/project/text2hoi/" | split: "," -%}
-<nav class="navbar" role="navigation" aria-label="main navigation">
+<style>
+  .project-navbar .navbar-item.home-link { background-color: #f5f5f5; border-radius: 8px; margin: 0.5rem 0.75rem 0.5rem 0; }
+  .project-navbar .navbar-item.home-link:hover { background-color: #ebebeb; }
+  .project-navbar .navbar-item.home-link .icon { color: #1a2a4a; }
+  .project-navbar .navbar-link { color: #4a4a4a; }
+</style>
+<nav class="navbar project-navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="projectNavbar">
       <span aria-hidden="true"></span>
@@ -10,7 +16,7 @@
   </div>
   <div class="navbar-menu" id="projectNavbar">
     <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
-      <a class="navbar-item" href="/" title="Junuk Cha">
+      <a class="navbar-item home-link" href="/" title="Junuk Cha">
         <span class="icon">
           <i class="fas fa-home"></i>
         </span>
