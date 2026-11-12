@@ -77,12 +77,13 @@ nav_order: 4
 
 - Video-based 3D mesh restoration method and system therefor, 2024.<br>
   영상 기반의 3차원 메쉬 복원 방법 및 이를 위한 시스템 · CJ Olive Networks and UNIST<br>
-  Filed, Korean Patent Application No. 10-2024-0169695, Nov. 25, 2024 · [10.8080/1020240169695](https://doi.org/10.8080/1020240169695)
+  Filed, Korean Patent Application No. 10-2024-0169695, Nov. 25, 2024 · [10.8080/1020240169695](https://doi.org/10.8080/1020240169695)<br>
+  Filed, PCT Application No. PCT/KR2024/018777, Nov. 25, 2024 · Pub. No. [WO 2025/110827](https://patents.google.com/patent/WO2025110827A1/en), May 30, 2025
 - Method for restoring interaction of multiple objects expressed in a 2D image to 3D, 2024.<br>
   2차원 이미지에 표현된 복수 객체의 상호작용을 3차원으로 복원하는 방법 · UNIST<br>
   **Registered**, Korean Patent No. 10-2949526-0000, Apr. 2, 2026 · [10.8080/1020240050701](https://doi.org/10.8080/1020240050701)
 - Artificial intelligence based worker detection device and method using thermal imaging, 2023.<br>
-  열화상 영상을 이용한 인공지능 기반 작업자 검출 장치 및 방법 · Hyundai and UNIST<br>
+  열화상 영상을 이용한 인공지능 기반 작업자 검출 장치 및 방법 · Hyundai Motor Company, Kia and UNIST<br>
   Filed, Korean Patent Application No. 10-2023-0100243, Aug. 1, 2023 · [10.8080/1020230100243](https://doi.org/10.8080/1020230100243)
 
 ## Research Projects
