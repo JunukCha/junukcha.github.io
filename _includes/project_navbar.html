@@ -1,0 +1,42 @@
+<!-- Navbar shared by the project pages: home link and the other project pages -->
+{%- assign project_pages = "RoboFS|/project/robofs/,OpenFS|/project/openfs/,Text2Relight|/project/text2relight/,Text2HOI|/project/text2hoi/" | split: "," -%}
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="projectNavbar">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu" id="projectNavbar">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="/" title="Junuk Cha">
+        <span class="icon">
+          <i class="fas fa-home"></i>
+        </span>
+      </a>
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">More Research</a>
+        <div class="navbar-dropdown">
+          {%- for item in project_pages -%}
+            {%- assign parts = item | split: "|" -%}
+            {%- unless parts[1] == page.url %}
+          <a class="navbar-item" href="{{ parts[1] }}">{{ parts[0] }}</a>
+            {%- endunless -%}
+          {%- endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.navbar-burger').forEach(function (burger) {
+      burger.addEventListener('click', function () {
+        var target = document.getElementById(burger.dataset.target);
+        burger.classList.toggle('is-active');
+        target.classList.toggle('is-active');
+      });
+    });
+  });
+</script>
