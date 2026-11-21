@@ -75,6 +75,9 @@ nav_order: 4
 
 ## Patents
 
+- Systems and methods for relighted image generation, 2024.<br>
+  Adobe Inc.<br>
+  Filed, US Patent Application No. 18/947,407, Nov. 14, 2024 · Pub. No. [US 2026/0134589 A1](https://patents.google.com/patent/US20260134589A1/en), May 14, 2026
 - Video-based 3D mesh restoration method and system therefor, 2024.<br>
   영상 기반의 3차원 메쉬 복원 방법 및 이를 위한 시스템 · CJ Olive Networks and UNIST<br>
   Filed, Korean Patent Application No. 10-2024-0169695, Nov. 25, 2024 · [10.8080/1020240169695](https://doi.org/10.8080/1020240169695)<br>
