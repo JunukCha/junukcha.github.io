@@ -32,7 +32,7 @@ nav_order: 4
 
 **Postdoctoral Researcher** · [AMI Lab](https://ami.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/en/), Daejeon, Korea <span class="float-right text-muted">Aug. 2025 – Aug. 2026</span>
 
-- Egocentric humanoid control (perception and planning), multiple human-object interaction, robot pose estimation, non-line-of-sight
+- Egocentric humanoid control (perception and planning), multi-human–object interaction, robot pose estimation, non-line-of-sight
 - PI: [Tae-Hyun Oh](https://ami.kaist.ac.kr/members/tae-hyun-oh)
 
 **Postdoctoral Researcher** · [KETI](https://www.keti.re.kr/eng/main/main.php), Pangyo, Korea <span class="float-right text-muted">Mar. 2025 – Jul. 2025</span>
@@ -108,7 +108,7 @@ nav_order: 4
 - **Teaching Assistant**
   - Navy AI professionals training process, Jinhae, Sep. 12, 2023.
   - 5th AI Novatus Academia PBL (Computer Vision), UNIST AI Innovation Park, Mar. 2023 – Jun. 2023.
-  - 1st Gyungnam AI Novatus Academia (Computer Vision), Masan, Apr. 15, 2022.
+  - 1st Gyeongnam AI Novatus Academia (Computer Vision), Masan, Apr. 15, 2022.
   - 3rd AI Novatus Academia (Computer Vision), UNIST AI Innovation Park, Feb. 25, 2022.
 - **Lecture TA**
   - 2023 Fall AI51601 Computer Vision
